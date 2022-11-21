@@ -24,7 +24,7 @@ export { HeroDark as Dark };
  **************************************************************
   Add your GitHub username (string - "YourUsername") below.
 */
-export const githubUsername = "Your GitHub username here";
+export const githubUsername = "aramkoukia";
 
 // Blog link icon (imported above)
 export const Blog = <FaLink />;
@@ -37,7 +37,7 @@ export const moreInfo =
   "I enjoy learning about technology and helping others use it to improve their lives and be more productive. I built this site with React, Bootstrap, Redux, and the GitHub REST API.";
 
 /* Skills
- ************************************************************** 
+ **************************************************************
   Add or remove skills in the SAME format below, there must be one icon imported above per skill below.
 */
 export const skillData = [
@@ -92,7 +92,7 @@ export const skillData = [
 export const resume = null;
 
 /* Projects
- ************************************************************** 
+ **************************************************************
   List the repo names (string - "your-repo-name") you want to include (they will be sorted alphabetically). If empty, only the first 3 will be included.
 */
 export const filteredProjects = ["example-1", "example-2", "example-3"];
@@ -106,7 +106,7 @@ export const projectCardImages = [
 ];
 
 /* Contact Info
- ************************************************************** 
+ **************************************************************
   Add your formspree endpoint below.
   https://formspree.io/
 */
