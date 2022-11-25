@@ -17,7 +17,7 @@ export default function Home() {
 
   React.useEffect(
     function () {
-      document.title = `${name} | Portfolio`;
+      document.title = `Software Engineering Technologies | Startup Market Map`;
     },
     [name]
   );
