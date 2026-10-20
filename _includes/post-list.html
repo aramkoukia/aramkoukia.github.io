@@ -1,0 +1,22 @@
+{% assign latest = site.posts.first %}
+{% assign years = site.posts | group_by_exp: "p", "p.date | date: '%Y'" %}
+<div class="years">
+  {% for y in years %}
+  <section class="year" aria-labelledby="y{{ y.name }}">
+    <h2 class="year-label" id="y{{ y.name }}">{{ y.name }}</h2>
+    <ol class="entries">
+      {% for post in y.items %}
+        {% assign desc = post.description | default: post.excerpt | strip_html | strip_newlines | truncatewords: 26 %}
+        <li class="entry{% if post.url == latest.url %} entry-latest{% endif %}"
+            data-search="{{ post.title | downcase | escape }} {{ desc | downcase | escape }}">
+          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d" }}</time>
+          <div class="entry-body">
+            <h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
+            {% if desc != "" %}<p>{{ desc | escape }}</p>{% endif %}
+          </div>
+        </li>
+      {% endfor %}
+    </ol>
+  </section>
+  {% endfor %}
+</div>

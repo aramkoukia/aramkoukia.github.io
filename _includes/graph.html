@@ -1,0 +1,27 @@
+<svg class="hero-graph" viewBox="0 0 460 300" role="img"
+     aria-label="Diagram of a request passing from a client through a gateway and a service to a primary database, which then replicates to a second database.">
+  <g fill="none" stroke-linecap="round">
+    <line class="g-link lit" style="--d:.45s" x1="44"  y1="150" x2="150" y2="150"/>
+    <line class="g-link"                         x1="150" y1="150" x2="262" y2="70"/>
+    <line class="g-link lit" style="--d:1.3s"  x1="150" y1="150" x2="262" y2="150"/>
+    <line class="g-link"                         x1="150" y1="150" x2="262" y2="230"/>
+    <line class="g-link"                         x1="262" y1="70"  x2="392" y2="70"/>
+    <line class="g-link lit" style="--d:2.2s"  x1="262" y1="150" x2="392" y2="150"/>
+    <line class="g-link"                         x1="262" y1="230" x2="392" y2="230"/>
+    <line class="g-link lit dashed" style="--d:3.2s" x1="392" y1="150" x2="392" y2="230"/>
+  </g>
+  <g class="g-nodes" text-anchor="middle">
+    <g class="g-node lit" style="--d:.4s"><rect x="8"   y="135" width="72" height="30" rx="8"/><text x="44"  y="154">client</text></g>
+    <g class="g-node lit" style="--d:1.2s"><rect x="114" y="135" width="72" height="30" rx="8"/><text x="150" y="154">gateway</text></g>
+    <g class="g-node"><rect x="226" y="55"  width="72" height="30" rx="8"/><text x="262" y="74">orders</text></g>
+    <g class="g-node lit" style="--d:2.05s"><rect x="226" y="135" width="72" height="30" rx="8"/><text x="262" y="154">accounts</text></g>
+    <g class="g-node"><rect x="226" y="215" width="72" height="30" rx="8"/><text x="262" y="234">search</text></g>
+    <g class="g-node"><rect x="356" y="55"  width="72" height="30" rx="8"/><text x="392" y="74">cache</text></g>
+    <g class="g-node lit" style="--d:3s"><rect x="356" y="135" width="72" height="30" rx="8"/><text x="392" y="154">primary</text></g>
+    <g class="g-node lit" style="--d:3.7s"><rect x="356" y="215" width="72" height="30" rx="8"/><text x="392" y="234">replica</text></g>
+  </g>
+  <circle class="g-packet" r="5" cx="0" cy="0" opacity="0">
+    <animateMotion dur="2.6s" begin="0.5s" fill="freeze" path="M44,150 H392"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.93;1" dur="2.6s" begin="0.5s" fill="freeze"/>
+  </circle>
+</svg>

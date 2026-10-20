@@ -1,0 +1,35 @@
+---
+layout: default
+---
+{% assign words = content | number_of_words %}
+<article class="post">
+  <header class="post-head">
+    <h1>{{ page.title | escape }}</h1>
+    {% if page.description %}<p class="dek">{{ page.description | escape }}</p>{% endif %}
+    <p class="byline">
+      <span>{{ site.author }}</span>
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+      <span>{{ words | plus: 219 | divided_by: 220 }} min read</span>
+    </p>
+  </header>
+
+  <aside class="toc" id="toc" aria-label="On this page" hidden></aside>
+
+  <div class="post-body prose">
+    {{ content }}
+  </div>
+
+  <footer class="post-foot">
+    {% if page.medium_url %}
+    <p class="origin">First published on <a href="{{ page.medium_url }}">Medium</a>.</p>
+    {% endif %}
+    <nav class="post-nav" aria-label="More posts">
+      {% if page.next %}
+      <a class="older" href="{{ page.next.url | relative_url }}"><span>Older</span>{{ page.next.title | escape }}</a>
+      {% endif %}
+      {% if page.previous %}
+      <a class="newer" href="{{ page.previous.url | relative_url }}"><span>Newer</span>{{ page.previous.title | escape }}</a>
+      {% endif %}
+    </nav>
+  </footer>
+</article>
