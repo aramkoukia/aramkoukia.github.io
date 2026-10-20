@@ -4,7 +4,6 @@ title: "Classes, Inheritance and Static members in #JavaScript #ES6"
 date: 2016-12-22
 description: "Class definition syntax and Class Constructor"
 image: /assets/img/2016-12-22-classes-inheritance-and-static-members-in-javascript-es6/1.jpg
-medium_url: https://medium.com/@aramkoukia/classes-inheritance-and-static-members-in-javascript-es6-b84e09eb7dd9
 ---
 
 ### Classes, Inheritance and Static members in #JavaScript #ES6

@@ -4,7 +4,6 @@ title: "Workout Coach — Windows 10 App — UWP"
 date: 2016-12-09
 description: "I have been playing with XAML and Universal Windows Platform App development and as part of this experiment I published the App too to see…"
 image: /assets/img/2016-12-09-workout-coach-windows-10-app-uwp/1.png
-medium_url: https://medium.com/@aramkoukia/workout-coach-windows-10-app-uwp-be425dd25a03
 ---
 
 ### Workout Coach — Windows 10 App — UWP

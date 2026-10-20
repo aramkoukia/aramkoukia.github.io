@@ -4,7 +4,6 @@ title: "Best-Kept Secrets of Product Development Part 2: Plan to Learn Faster"
 date: 2020-03-07
 description: "Here are some of my notes from the amazing “User Story Mapping” book by: Jeff Patton!"
 image: https://cdn-images-1.medium.com/max/800/1*8Bg5a2RsZFxpfJIYbDx44w.png
-medium_url: https://medium.com/@aramkoukia/best-kept-secrets-of-product-development-part-2-plan-to-learn-faster-f3a50f212bf9
 ---
 
 ### Best-Kept Secrets of Product Development Part 2: Plan to Learn Faster

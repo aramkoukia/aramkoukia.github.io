@@ -4,7 +4,6 @@ title: "Rename or Move files in GIT"
 date: 2018-11-13
 description: "Git keeps track of changes to files in the working directory of a repository by their name. When you move or rename a file, Git doesn’t…"
 image: https://cdn-images-1.medium.com/max/800/1*-l3Qrum9oPMiiM0yW7v_Ng.png
-medium_url: https://medium.com/@aramkoukia/rename-or-move-files-in-git-e7259bf5a0b7
 ---
 
 ### Rename or Move files in GIT

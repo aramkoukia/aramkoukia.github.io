@@ -4,7 +4,6 @@ title: "Using Microsoft Unity Interceptor for a cleaner code (AOP)"
 date: 2016-12-09
 description: "If you have read the past 2 posts of mine here and here, they are about some techniques to have a Cleaner Code. This post is yet another…"
 image: /assets/img/2016-12-09-using-microsoft-unity-interceptor-for-a-cleaner-code-aop/1.jpg
-medium_url: https://medium.com/@aramkoukia/using-microsoft-unity-interceptor-for-a-cleaner-code-aop-55e283c5cba7
 ---
 
 ### Using Microsoft Unity Interceptor for a cleaner code (AOP)

@@ -4,7 +4,6 @@ title: "A Microservices implementation journey — Part 2"
 date: 2018-01-21
 description: "In the first part of this Microservices implementation journey, I explained some of the details of a Microservices Architecture as I…"
 image: https://cdn-images-1.medium.com/max/1200/1*RT7LV0doS1Ue7o7Yu9sdYQ.png
-medium_url: https://medium.com/@aramkoukia/a-microservices-implementation-journey-part-2-10c422a4d402
 ---
 
 ### A Microservices implementation journey — Part 2

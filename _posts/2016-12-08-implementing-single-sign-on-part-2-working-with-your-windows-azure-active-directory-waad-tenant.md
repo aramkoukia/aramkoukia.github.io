@@ -3,7 +3,6 @@ layout: post
 title: "Implementing Single Sign-On Part 2: Working with Your Windows Azure Active Directory (WAAD) Tenant"
 date: 2016-12-08
 description: "So now that you read my previous post about the Single Sign-on experience, it is time to do some real job and start playing with Windows…"
-medium_url: https://medium.com/@aramkoukia/implementing-single-sign-on-part-2-working-with-your-windows-azure-active-directory-waad-tenant-8e372db109fa
 ---
 
 ### Implementing Single Sign-On Part 2: Working with Your Windows Azure Active Directory (WAAD) Tenant

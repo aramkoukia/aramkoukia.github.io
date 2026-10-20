@@ -1,0 +1,7 @@
+<div class="avatar{% if include.small %} avatar-sm{% endif %}">
+  {% if site.avatar and site.avatar != "" %}
+  <img src="{{ site.avatar | relative_url }}" alt="Portrait of {{ site.author }}" width="320" height="320">
+  {% else %}
+  <span class="avatar-mono" aria-hidden="true">AK</span>
+  {% endif %}
+</div>

@@ -4,7 +4,6 @@ title: "Interceptors (WCF Data Services) and the limitation I faced"
 date: 2016-12-08
 description: "Say we have a list of Orders that we need to return to the client, but we only want to return the rows that are related to that specific…"
 image: /assets/img/2016-12-08-interceptors-wcf-data-services-and-the-limitation-i-faced/1.png
-medium_url: https://medium.com/@aramkoukia/interceptors-wcf-data-services-and-the-limitation-i-faced-7387bbc598c4
 ---
 
 ### Interceptors (WCF Data Services) and the limitation I faced

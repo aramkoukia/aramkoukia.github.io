@@ -4,7 +4,6 @@ title: "Making Web Api calls more scalable"
 date: 2016-12-09
 description: "While dealing with scalability, there are number of classes that are expensive(in terms of performance and/or scalability) to instantiate…"
 image: /assets/img/2016-12-09-making-web-api-calls-more-scalable/1.png
-medium_url: https://medium.com/@aramkoukia/making-web-api-calls-more-scalable-55debc09ab62
 ---
 
 ### Making Web Api calls more scalable

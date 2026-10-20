@@ -4,7 +4,6 @@ title: "How to Add #Azure Application Insights telemetry to an existing .Net Cor
 date: 2016-12-23
 description: "In this video I demonstrate, how to setup Azure Application Insights telemetry in an existing .Net Core Application that does not have any…"
 image: https://cdn-images-1.medium.com/max/1200/1*6QA1hZ8uE4GTaz8rIzUdzg.png
-medium_url: https://medium.com/@aramkoukia/how-to-add-application-insights-telemetry-to-and-existing-net-core-application-77926fd09d6f
 ---
 
 ### How to Add #Azure Application Insights telemetry to an existing .Net Core Application

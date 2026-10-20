@@ -4,7 +4,6 @@ title: "What is Azure"
 date: 2016-09-28
 description: "I have been talking about Azure in detail in my blog in the past and I got this feedback from some people that they need to know a little…"
 image: /assets/img/2016-09-28-what-is-azure/1.png
-medium_url: https://medium.com/@aramkoukia/what-is-azure-f2886daed64e
 ---
 
 ### What is Azure

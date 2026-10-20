@@ -4,7 +4,6 @@ title: "Another Sexy debugging tool in #VisualStudio: Code Map"
 date: 2016-12-08
 description: "I recently noticed this button in Visual Studio 2012 on debug mode, thought this might be useful debugging complicated codes in Visual…"
 image: /assets/img/2016-12-08-another-sexy-debugging-tool-in-visualstudio-code-map/1.png
-medium_url: https://medium.com/@aramkoukia/another-sexy-debugging-tool-in-visual-studio-code-map-772557041573
 ---
 
 ### Another Sexy debugging tool in #VisualStudio: Code Map

@@ -1,18 +1,19 @@
 title: Aram Koukia
-tagline: Notes on building systems and the teams behind them.
+tagline: Software alchemist, engineering leader, professional smile-maker.
 description: >-
-  Aram Koukia writes about distributed systems, cloud engineering, and
-  technical leadership.
+  Aram Koukia is an engineering leader at AWS who writes about technical
+  leadership, scalable systems, and building teams that love what they do.
 author: Aram Koukia
-# The repo must be named <username>.github.io for this URL to work.
-url: "https://aramkoukia.github.io"
+# Matches the custom domain in CNAME.
+url: "https://koukia.ca"
 baseurl: ""
+# Optional: path to a square photo, e.g. /assets/img/aram.jpg. Falls back to a monogram.
+avatar:
 
 # Shown in the footer and used by SEO tags. Delete any you don't use.
 social:
   github: aramkoukia
-  linkedin: aramkoukia
-  medium: "@aramkoukia"
+  linkedin: aram-koukia
 
 plugins:
   - jekyll-feed

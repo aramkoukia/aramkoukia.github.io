@@ -4,7 +4,6 @@ title: "Entity Framework Core 2.0 vs. Dapper performance benchmark, querying SQL
 date: 2017-08-05
 description: "While the .Net Core 2.0 is still being baked (Preview 3 is out now!), I thought I’d give the Entity Framework Core 2.0 a try and do a…"
 image: https://cdn-images-1.medium.com/max/800/1*9UzjAlppKGnIAUpzMtWuYA.png
-medium_url: https://medium.com/@aramkoukia/entity-framework-core-2-0-vs-dapper-net-performance-benchmark-querying-sql-azure-tables-7696e8e3ed28
 ---
 
 ### Entity Framework Core 2.0 vs. Dapper performance benchmark, querying SQL Azure tables

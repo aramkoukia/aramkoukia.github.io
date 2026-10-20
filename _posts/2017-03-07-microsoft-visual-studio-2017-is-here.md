@@ -4,7 +4,6 @@ title: "Microsoft Visual Studio 2017 is here!"
 date: 2017-03-07
 description: "Today Visual Studio 2017 is lunched."
 image: https://cdn-images-1.medium.com/max/1200/1*kxtvvzVygoK_KHxyhrjtrg.jpeg
-medium_url: https://medium.com/@aramkoukia/microsoft-visual-studio-2017-is-here-8e5a2305bb02
 ---
 
 ### Microsoft Visual Studio 2017 is here!

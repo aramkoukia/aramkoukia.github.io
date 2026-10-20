@@ -4,7 +4,6 @@ title: "Configuring Docker Swarm as Container Orchestrator on Windows"
 date: 2017-11-30
 description: "I have been looking into different Container Orchestrator options like Kubernetes and Azure Service Fabric recently, and now I want to see…"
 image: https://cdn-images-1.medium.com/max/2560/1*dybB9cpWGPfRB5y_E6Upxw.jpeg
-medium_url: https://medium.com/@aramkoukia/configuring-docker-swarm-as-container-orchestrator-on-windows-1f89a2037dac
 ---
 
 ### Configuring Docker Swarm as Container Orchestrator on Windows

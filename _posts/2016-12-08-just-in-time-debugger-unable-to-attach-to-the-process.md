@@ -4,7 +4,6 @@ title: "Just In Time Debugger / Unable to attach to the process"
 date: 2016-12-08
 description: "Last week after I installed Microsoft Visual Studio 2013 preview, some websites that I was hosting just stopped working! What?! yeah, I…"
 image: /assets/img/2016-12-08-just-in-time-debugger-unable-to-attach-to-the-process/1.png
-medium_url: https://medium.com/@aramkoukia/just-in-time-debugger-unable-to-attach-to-the-process-701c88a7cb96
 ---
 
 ### Just In Time Debugger / Unable to attach to the process

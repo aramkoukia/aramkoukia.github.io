@@ -4,7 +4,6 @@ title: "Why “project funding” and “project budgeting” does not fit an Ag
 date: 2020-03-18
 description: "You all might have seen companies playing this “Agile” game and tell everyone in the organization to try to be Agile, and when a real…"
 image: https://cdn-images-1.medium.com/max/1200/1*wfpO-s3ElU4tO-sqi60-kQ.png
-medium_url: https://medium.com/@aramkoukia/why-project-funding-and-project-budgeting-does-not-fit-an-agile-world-7c7c95e968f1
 ---
 
 ### Why “project funding” and “project budgeting” does not fit an Agile world!

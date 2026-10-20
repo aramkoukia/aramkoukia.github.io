@@ -4,7 +4,6 @@ title: "Common SQL Problems: De-duplicating Data"
 date: 2016-12-09
 description: "In real production databases, we really should not face the problem of duplicate data, because we definitely have a UNIQUE constraint on…"
 image: /assets/img/2016-12-09-common-sql-problems-de-duplicating-data/1.jpg
-medium_url: https://medium.com/@aramkoukia/common-sql-problems-de-duplicating-data-9ca53487ce57
 ---
 
 ### Common SQL Problems: De-duplicating Data

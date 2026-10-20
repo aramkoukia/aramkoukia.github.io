@@ -14,9 +14,46 @@
     label();
   });
 
-  /* Skip the hero animation for people who prefer reduced motion */
-  if (matchMedia('(prefers-reduced-motion: reduce)').matches) {
-    document.querySelectorAll('.hero-graph animate, .hero-graph animateMotion').forEach(function (n) { n.remove(); });
+  var still = matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  /* Hairline under the sticky header once the page scrolls */
+  var header = document.querySelector('.site-header');
+  if (header) {
+    var edge = function () { header.classList.toggle('scrolled', scrollY > 8); };
+    addEventListener('scroll', edge, { passive: true });
+    edge();
+  }
+
+  /* Cycle through the roles under the name on the home page */
+  var role = document.querySelector('.role[data-roles]');
+  if (role && !still) {
+    var roles = role.dataset.roles.split('|');
+    var i = 0;
+    setInterval(function () {
+      role.classList.add('swap');
+      setTimeout(function () {
+        i = (i + 1) % roles.length;
+        role.textContent = roles[i];
+        role.classList.remove('swap');
+      }, 300);
+    }, 2600);
+  }
+
+  /* Fade cards in as they scroll into view */
+  var reveals = [].slice.call(document.querySelectorAll('.reveal'));
+  if (reveals.length) {
+    if (still || !('IntersectionObserver' in window)) {
+      reveals.forEach(function (r) { r.classList.add('in'); });
+    } else {
+      var ro = new IntersectionObserver(function (entries) {
+        entries.forEach(function (e) {
+          if (!e.isIntersecting) return;
+          e.target.classList.add('in');
+          ro.unobserve(e.target);
+        });
+      }, { rootMargin: '0px 0px -8% 0px' });
+      reveals.forEach(function (r, n) { r.style.transitionDelay = (n % 4) * 70 + 'ms'; ro.observe(r); });
+    }
   }
 
   /* Reading progress */

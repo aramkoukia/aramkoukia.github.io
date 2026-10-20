@@ -4,7 +4,6 @@ title: "Canada Income tax calculator"
 date: 2016-12-09
 description: "Recently I played a bit with Apache Cordova and how you can build cross platform Apps, and this is the sample project I did using pure…"
 image: /assets/img/2016-12-09-canada-income-tax-calculator/1.png
-medium_url: https://medium.com/@aramkoukia/canada-income-tax-calculator-68b15217437a
 ---
 
 ### Canada Income tax calculator

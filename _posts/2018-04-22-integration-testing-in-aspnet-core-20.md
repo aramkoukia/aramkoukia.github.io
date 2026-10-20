@@ -4,7 +4,6 @@ title: "Integration Testing in Asp.Net Core 2.0"
 date: 2018-04-22
 description: "When you are building an API, and doing all the right unit tests and ad-hoc tests and etc, the next type of test in the test pyramid is…"
 image: https://cdn-images-1.medium.com/max/800/1*hRCR2q2OF7cPjIi1ZZbHPg.jpeg
-medium_url: https://medium.com/@aramkoukia/integration-testing-in-asp-net-core-2-0-51d14ede3968
 ---
 
 ### Integration Testing in Asp.Net Core 2.0

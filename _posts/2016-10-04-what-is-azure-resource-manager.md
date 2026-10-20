@@ -4,7 +4,6 @@ title: "What is Azure Resource Manager"
 date: 2016-10-04
 description: "The Azure Resource Manager is the new way of deploying your resources in Azure."
 image: /assets/img/2016-10-04-what-is-azure-resource-manager/1.png
-medium_url: https://medium.com/@aramkoukia/what-is-azure-resource-manager-d08d8f3e801d
 ---
 
 ### What is Azure Resource Manager

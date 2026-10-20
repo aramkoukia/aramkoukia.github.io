@@ -4,7 +4,6 @@ title: "How to build a simple blockchain of your own?"
 date: 2017-03-10
 description: "I have been looking into different blockchain platforms out there and I decided that I need to make a simple one of my own to have a better…"
 image: https://cdn-images-1.medium.com/max/1200/1*swWRYPx-JoyCXYEwAMTN5A.jpeg
-medium_url: https://medium.com/series/how-to-build-a-simple-blockchain-of-your-own-450ae62869c3
 ---
 
 ### How to build a simple blockchain of your own?

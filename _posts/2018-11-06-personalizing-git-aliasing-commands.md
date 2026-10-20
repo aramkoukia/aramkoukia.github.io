@@ -4,7 +4,6 @@ title: "Personalizing GIT: Aliasing commands"
 date: 2018-11-06
 description: "One of the most powerful features available with git config is aliasing."
 image: https://cdn-images-1.medium.com/max/800/1*tIlbC_ggkdPLBgR0SfbwXQ.png
-medium_url: https://medium.com/@aramkoukia/personalizing-git-aliasing-commands-4dda73b54081
 ---
 
 ### Personalizing GIT: Aliasing commands

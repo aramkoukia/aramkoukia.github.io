@@ -4,7 +4,6 @@ title: "WHAT THE CRYPTO? (INFOGRAPHIC)"
 date: 2018-11-07
 description: "An online friend, Stefan Ateljevic from https://bitcoinplay.net and his team has created the following amazing infographic about…"
 image: https://cdn-images-1.medium.com/max/800/1*BnaZGd7mbuowUnkHhPmoQA.png
-medium_url: https://medium.com/@aramkoukia/what-the-crypto-infographic-152e2586952
 ---
 
 ### What the Crypto? (Infographic)

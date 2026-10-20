@@ -2,7 +2,6 @@
 layout: post
 title: "How to Evaluate a Distributed System Architecture in 30 Minutes"
 date: 2025-11-24
-medium_url: https://medium.com/@aramkoukia/how-to-evaluate-a-distributed-system-architecture-in-30-minutes-509dfb11893f
 ---
 
 ## How to Evaluate a Distributed System Architecture in 30 Minutes

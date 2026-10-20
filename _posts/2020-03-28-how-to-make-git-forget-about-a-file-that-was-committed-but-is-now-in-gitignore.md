@@ -4,7 +4,6 @@ title: "How to make Git “forget” about a file that was committed but is now 
 date: 2020-03-28
 description: "Ever happened to you that you intentional or not, committed a file to git and then changed your mind and wanted git to forget about it?"
 image: https://cdn-images-1.medium.com/max/800/0*GnXhp8UIwoe46rYV
-medium_url: https://medium.com/@aramkoukia/how-to-make-git-forget-about-a-file-that-was-committed-but-is-now-in-gitignore-6282df9b48f9
 ---
 
 ### How to make Git “forget” about a file that was committed but is now in .gitignore?

@@ -3,10 +3,9 @@ layout: post
 title: "Arman Sahakyan If you using testnet you can see your transaction and contract here: https://testnet."
 date: 2017-08-19
 description: "use the transaction id or contract id and look it up there"
-medium_url: https://medium.com/@aramkoukia/arman-sahakyan-if-you-using-testnet-you-can-see-your-transaction-and-contract-here-https-testnet-2d53eee04b12
 ---
 
-[Arman Sahakyan](https://medium.com/u/d15befa5cc69) If you using testnet you can see your transaction and contract here: <https://testnet.etherscan.io/>
+Arman Sahakyan If you using testnet you can see your transaction and contract here: <https://testnet.etherscan.io/>
 
 use the transaction id or contract id and look it up there
 

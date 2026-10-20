@@ -4,7 +4,6 @@ title: ".NET Core 2.0 is around the corner, and it’s gonna be huuuuge!"
 date: 2017-05-06
 description: "I’m very excited about the .Net Core 2.0 release. It reminds me of .Net Framework 2.0 release (around 2001 I guess! getting old, eh?), when…"
 image: https://cdn-images-1.medium.com/max/800/1*2tEMYFmlIHDQj-dQozMCXA.png
-medium_url: https://medium.com/@aramkoukia/net-core-2-0-is-around-the-corner-c436b31dc841
 ---
 
 ### .NET Core 2.0 is around the corner, and it’s gonna be huuuuge!

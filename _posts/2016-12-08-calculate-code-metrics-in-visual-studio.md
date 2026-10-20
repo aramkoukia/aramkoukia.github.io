@@ -4,7 +4,6 @@ title: "Calculate Code Metrics in Visual Studio"
 date: 2016-12-08
 description: "A while a go, one of my friends(Nima Sh.) asked me about the way we deal with the code metrics in our Microsoft project and that made me to…"
 image: /assets/img/2016-12-08-calculate-code-metrics-in-visual-studio/1.png
-medium_url: https://medium.com/@aramkoukia/calculate-code-metrics-in-visual-studio-746a6aff93df
 ---
 
 ### Calculate Code Metrics in Visual Studio

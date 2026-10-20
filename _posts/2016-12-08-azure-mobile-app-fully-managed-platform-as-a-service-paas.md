@@ -4,7 +4,6 @@ title: "#Azure Mobile App — Fully managed Platform as a Service — #PaaS"
 date: 2016-12-08
 description: "Azure Mobile Apps is a part of new Azure App Service and it offers a highly scalable, globally available mobile application development…"
 image: /assets/img/2016-12-08-azure-mobile-app-fully-managed-platform-as-a-service-paas/1.png
-medium_url: https://medium.com/@aramkoukia/azure-mobile-app-fully-managed-platform-as-a-service-paas-166422da1db9
 ---
 
 ### #Azure Mobile App — Fully managed Platform as a Service — #PaaS

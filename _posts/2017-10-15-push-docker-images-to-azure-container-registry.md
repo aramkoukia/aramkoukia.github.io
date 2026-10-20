@@ -4,7 +4,6 @@ title: "Push Docker images to Azure Container Registry"
 date: 2017-10-15
 description: "In the previous post I demonstrated how to create docker images using docker-compose. Now I will show you how you can push those images…"
 image: https://cdn-images-1.medium.com/max/800/1*c9mvlJQ0o-zQbHM3SL8zkg.png
-medium_url: https://medium.com/@aramkoukia/push-docker-images-to-azure-container-registry-ed21facefd0c
 ---
 
 ### Push Docker images to Azure Container Registry

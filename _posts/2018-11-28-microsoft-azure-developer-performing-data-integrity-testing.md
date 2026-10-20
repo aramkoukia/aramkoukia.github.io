@@ -4,7 +4,6 @@ title: "Microsoft Azure Developer: Performing Data Integrity Testing"
 date: 2018-11-28
 description: "I am so excited to share my first #PluralSight course with you all tonight!"
 image: https://cdn-images-1.medium.com/max/2560/1*WptFmgvB5AbS_ZIBC1z8Sg.png
-medium_url: https://medium.com/@aramkoukia/microsoft-azure-developer-performing-data-integrity-testing-ca03e767242a
 ---
 
 ### Microsoft Azure Developer: Performing Data Integrity Testing

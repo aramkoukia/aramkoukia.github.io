@@ -4,7 +4,6 @@ title: "How to be Lean and Agile AND have a Product Roadmap that does not suck!"
 date: 2020-03-14
 description: "When developing a product, a common trap that teams fall into is this “Roadmap” thing that a lot of teams make this diagram that pretty…"
 image: https://cdn-images-1.medium.com/max/800/0*YkPqFt7MaOPV1aEZ.png
-medium_url: https://medium.com/@aramkoukia/how-to-be-lean-and-agile-and-have-a-product-roadmap-that-does-not-suck-4c1822694c0f
 ---
 
 ### How to be Lean and Agile AND have a Product Roadmap that does not suck!
@@ -41,7 +40,7 @@ Because of this above issue, people who want to be lean or agile, many of them h
 
 Now more than ever I see a lot of new generation product development ideas that are lean and agile AND have proper roadmaps, which makes me really excited.
 
-Here is a great thread on Tweeter by [Janna Bastow](https://medium.com/u/14271b5e5c89) so you know what I am talking about:
+Here is a great thread on Tweeter by Janna Bastow so you know what I am talking about:
 
 ### How do I check if my roadmap process rocks or sucks?
 

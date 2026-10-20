@@ -4,7 +4,6 @@ title: "Azure Logic App — API Integration made easy"
 date: 2016-12-07
 description: "Windows Azure team is on fire introducing real cool features in the Cloud world that we come across them all over the web and events, but…"
 image: /assets/img/2016-12-07-azure-logic-app-api-integration-made-easy/1.png
-medium_url: https://medium.com/@aramkoukia/azure-logic-app-api-integration-made-easy-d86555945315
 ---
 
 ### Azure Logic App — API Integration made easy

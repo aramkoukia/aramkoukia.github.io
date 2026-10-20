@@ -4,7 +4,6 @@ title: "Entity Framework Core 2.0 Features"
 date: 2017-06-10
 description: "Entity Framework Core 2.0 is now available."
 image: https://cdn-images-1.medium.com/max/800/1*19hDux91qpoShfe7tXE5xg.png
-medium_url: https://medium.com/@aramkoukia/entity-framework-core-2-0-features-cf5afe96476f
 ---
 
 ### Entity Framework Core 2.0 Features

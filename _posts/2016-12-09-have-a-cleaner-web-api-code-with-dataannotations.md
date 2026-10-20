@@ -4,7 +4,6 @@ title: "Have a cleaner Web API code with DataAnnotations"
 date: 2016-12-09
 description: "Dealing with validations and testing them properly exists in all different layers of an application, from the browser level validation all…"
 image: /assets/img/2016-12-09-have-a-cleaner-web-api-code-with-dataannotations/1.jpg
-medium_url: https://medium.com/@aramkoukia/have-a-cleaner-web-api-code-with-dataannotations-3e54d4118065
 ---
 
 ### Have a cleaner Web API code with DataAnnotations

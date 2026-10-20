@@ -4,7 +4,6 @@ title: "Proactive Auto Heal, on Azure App Services"
 date: 2017-08-20
 description: "Azure App Services has had this Auto Heal feature for while when you could set it to make a decision when certain things happen like: When…"
 image: https://cdn-images-1.medium.com/max/800/1*WXj7xR24CTCOiYBNcVSpjg.png
-medium_url: https://medium.com/@aramkoukia/proactive-auto-heal-on-azure-app-services-8d136d7e894e
 ---
 
 ### Proactive Auto Heal, on Azure App Services

@@ -4,7 +4,6 @@ title: "What to read and learn in 2017"
 date: 2016-12-24
 description: "Yes it is that time of year again. The new years resolution and that bullshit."
 image: https://cdn-images-1.medium.com/max/800/1*h6QsbzYwny5FwyuRZ6bMaA.gif
-medium_url: https://medium.com/@aramkoukia/what-to-read-and-learn-in-2017-68666ee26d65
 ---
 
 ### What to read and learn in 2017

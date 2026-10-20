@@ -4,7 +4,6 @@ title: "Getting started with VueJs, NodeJs and Azure CosmosDB"
 date: 2018-01-19
 description: "Looking at the Frontend frameworks that showed up in the past few years, it seems like we are down to very few main frameworks that people…"
 image: https://cdn-images-1.medium.com/max/1200/1*HZv3XwUmdOuvl-qydTGReQ.png
-medium_url: https://medium.com/@aramkoukia/getting-started-with-vuejs-nodejs-and-azure-cosmosdb-35dadbf2dd3c
 ---
 
 ### Getting started with VueJs, NodeJs and Azure CosmosDB

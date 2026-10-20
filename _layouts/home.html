@@ -1,31 +1,85 @@
 ---
 layout: default
 ---
+{% assign p = site.data.profile %}
 <section class="hero">
   <div class="wrap hero-grid">
     <div class="hero-text">
-      <h1>{{ site.tagline }}</h1>
-      <p>I’m Aram, a Sr. Engineering Manager at AWS. I write about distributed systems, cloud engineering, and leading engineering teams.</p>
-      <p class="hero-links">
-        {% assign latest = site.posts.first %}
-        {% if latest %}<a class="btn" href="{{ latest.url | relative_url }}">Read the latest post</a>{% endif %}
-        <a class="link-quiet" href="{{ '/feed.xml' | relative_url }}">Subscribe with RSS</a>
+      <p class="eyebrow"><span class="wave" aria-hidden="true">👋</span> Hi, I’m</p>
+      <h1>{{ p.name }}<span class="dot">.</span></h1>
+      <p class="roles" aria-label="{{ p.roles | join: ', ' }}">
+        <span aria-hidden="true">I’m a </span><em class="role" data-roles="{{ p.roles | join: '|' }}" aria-hidden="true">{{ p.roles.first }}</em>
       </p>
+      <p class="lede">{{ p.intro }}</p>
+      <p class="hero-links">
+        <a class="btn" href="{{ '/blog/' | relative_url }}">Read the blog</a>
+        <a class="btn btn-ghost" href="{{ '/about/' | relative_url }}">More about me</a>
+      </p>
+      {% include social.html %}
     </div>
-    <div class="hero-art">{% include graph.html %}</div>
+    <div class="hero-art">
+      {% include avatar.html %}
+      <span class="orbit o1" aria-hidden="true">⛳️</span>
+      <span class="orbit o2" aria-hidden="true">🎸</span>
+      <span class="orbit o3" aria-hidden="true">⚽️</span>
+      <span class="orbit o4" aria-hidden="true">☁️</span>
+    </div>
   </div>
 </section>
 
-<section class="writing">
+<section class="stats" aria-label="At a glance">
+  <div class="wrap stats-grid">
+    {% for s in p.stats %}
+    <div class="stat"><strong>{{ s.value }}</strong><span>{{ s.label }}</span></div>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="band">
   <div class="wrap">
-    <div class="writing-head">
-      <h2>Writing</h2>
-      <label class="filter">
-        <span class="sr">Filter posts</span>
-        <input id="filter" type="search" placeholder="Filter by title or topic" autocomplete="off">
-      </label>
+    <h2 class="section-title">What I care about</h2>
+    <div class="cards">
+      {% for f in p.focus %}
+      <article class="card reveal">
+        <span class="card-icon" aria-hidden="true">{{ f.icon }}</span>
+        <h3>{{ f.title }}</h3>
+        <p>{{ f.text }}</p>
+      </article>
+      {% endfor %}
     </div>
-    {% include post-list.html %}
-    <p id="empty" class="empty" hidden>No posts match “<span></span>”. Try a shorter search term.</p>
+  </div>
+</section>
+
+<section class="band">
+  <div class="wrap">
+    <div class="section-head">
+      <h2 class="section-title">Latest writing</h2>
+      <a class="link-quiet" href="{{ '/blog/' | relative_url }}">All posts →</a>
+    </div>
+    <div class="post-cards">
+      {% for post in site.posts limit: 3 %}
+      {% assign desc = post.description | default: post.excerpt | strip_html | strip_newlines | truncatewords: 30 %}
+      <article class="post-card reveal">
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+        <h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
+        {% if desc != "" %}<p>{{ desc | escape }}</p>{% endif %}
+        <span class="more" aria-hidden="true">Read →</span>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="band">
+  <div class="wrap">
+    <div class="cta reveal">
+      <div>
+        <h2>Off the clock</h2>
+        <p>Always looking for the next reason to smile.</p>
+      </div>
+      <ul class="chips">
+        {% for i in p.interests %}<li><span aria-hidden="true">{{ i.emoji }}</span> {{ i.label }}</li>{% endfor %}
+      </ul>
+    </div>
   </div>
 </section>

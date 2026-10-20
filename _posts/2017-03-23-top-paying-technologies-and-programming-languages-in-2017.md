@@ -4,7 +4,6 @@ title: "Top Paying Technologies and Programming Languages in 2017"
 date: 2017-03-23
 description: "In case you missed it, Stack Overflow released the 2017 Developer survey results and as always there are really interesting information…"
 image: https://cdn-images-1.medium.com/max/1200/1*eyj62id3no4e7p2SETyZ3A.jpeg
-medium_url: https://medium.com/@aramkoukia/top-paying-technologies-and-programming-languages-in-2017-f4b60f798564
 ---
 
 ### Top Paying Technologies and Programming Languages in 2017

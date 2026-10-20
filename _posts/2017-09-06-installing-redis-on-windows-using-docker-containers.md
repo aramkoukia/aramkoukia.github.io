@@ -4,7 +4,6 @@ title: "Installing Redis on Windows using Docker Containers"
 date: 2017-09-06
 description: "I have started to look into Redis to use it as a memory cache in our systems, and while we are not hosting our components in Azure, I…"
 image: https://cdn-images-1.medium.com/max/800/1*MgdgqhwAZOKoOTCyqswaJA.png
-medium_url: https://medium.com/@aramkoukia/installing-redis-on-windows-using-docker-containers-7737d2ebc25e
 ---
 
 ### Installing Redis on Windows using Docker Containers

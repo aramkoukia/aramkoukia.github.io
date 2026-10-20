@@ -105,8 +105,6 @@ def convert_file(path, out_dir, img_dir, download):
         fm.append(f'description: "{subtitle.replace(chr(34), chr(92) + chr(34))}"')
     if first_image:
         fm.append(f"image: {first_image}")
-    if canonical:
-        fm.append(f"medium_url: {canonical}")
     fm.append("---\n")
 
     out = out_dir / f"{date}-{slug}.md"

@@ -4,7 +4,6 @@ title: "Difference between ‘git pull’ and ‘git fetch’"
 date: 2017-06-11
 description: "Which one do you use? ‘pull’ or ‘fetch’?"
 image: https://cdn-images-1.medium.com/max/800/1*ODQUZPiwWu04XxKX4f2jbg.jpeg
-medium_url: https://medium.com/@aramkoukia/difference-between-git-pull-and-git-fetch-16e30c3849c9
 ---
 
 ### Difference between ‘git pull’ and ‘git fetch’

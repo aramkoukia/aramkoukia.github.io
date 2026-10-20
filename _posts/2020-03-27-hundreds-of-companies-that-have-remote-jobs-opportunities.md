@@ -4,7 +4,6 @@ title: "Hundreds of companies that have Remote Jobs opportunities"
 date: 2020-03-27
 description: "Hello friends!"
 image: https://cdn-images-1.medium.com/max/800/0*E7dutayGae3I_56-.jpg
-medium_url: https://medium.com/@aramkoukia/hundreds-of-companies-that-have-remote-jobs-opportunities-4c246c977da9
 ---
 
 ### Hundreds of companies that have Remote Jobs opportunities

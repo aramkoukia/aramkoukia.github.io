@@ -4,7 +4,6 @@ title: "What does the “yield” keyword do in python?"
 date: 2023-01-19
 description: "In Python, the “yield” keyword is used in the body of a function definition. When a function is called with a “yield” statement, it returns…"
 image: https://cdn-images-1.medium.com/max/800/0*B1rQIcFPUzcv9vku.png
-medium_url: https://medium.com/@aramkoukia/what-does-the-yield-keyword-do-in-python-38049e89ca81
 ---
 
 ### What does the “yield” keyword do in python?

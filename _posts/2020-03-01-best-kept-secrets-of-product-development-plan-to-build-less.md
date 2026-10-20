@@ -4,7 +4,6 @@ title: "Best-Kept Secrets of Product Development: Plan to Build Less"
 date: 2020-03-01
 description: "Here are some of my notes from the Story Mapping book, some that are just common sense but at the same time, super hard to keep in mind…"
 image: https://cdn-images-1.medium.com/max/800/1*8Bg5a2RsZFxpfJIYbDx44w.png
-medium_url: https://medium.com/@aramkoukia/best-kept-secrets-of-product-development-plan-to-build-less-741f68e7cfbd
 ---
 
 ### Best-Kept Secrets of Product Development — Part 1: Plan to Build Less

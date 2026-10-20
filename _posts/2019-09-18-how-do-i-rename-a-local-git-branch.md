@@ -3,7 +3,6 @@ layout: post
 title: "How do I rename a local Git branch?"
 date: 2019-09-18
 description: "Ever happened to you that you made a branch and has a typo and you are itching to fix it?"
-medium_url: https://medium.com/@aramkoukia/how-do-i-rename-a-local-git-branch-1355a022835d
 ---
 
 ### How do I rename a local Git branch?

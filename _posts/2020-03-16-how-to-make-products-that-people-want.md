@@ -4,7 +4,6 @@ title: "How to make Products that people want?"
 date: 2020-03-16
 description: "When building software products and services (this probably applies to any non-software services as well, but I will stay in my lane!) how…"
 image: https://cdn-images-1.medium.com/max/800/0*jyI4Y3P9k3n-gmTG.png
-medium_url: https://medium.com/@aramkoukia/how-to-make-products-that-people-want-ac2e3e065cb6
 ---
 
 ### How to make Products that people want?

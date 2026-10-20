@@ -4,7 +4,6 @@ title: "New York Times open sources data about COVID19 cases in the United State
 date: 2020-03-30
 description: "The New York Times is releasing a series of data files with cumulative counts of coronavirus cases in the United States, at the state and…"
 image: https://cdn-images-1.medium.com/max/800/1*ufhnWK_bp2EwzJNkMgJQqQ.png
-medium_url: https://medium.com/@aramkoukia/new-york-times-open-sources-data-about-covid19-cases-in-the-united-states-de2417e1b536
 ---
 
 ### New York Times open sources data about COVID19 cases in the United States

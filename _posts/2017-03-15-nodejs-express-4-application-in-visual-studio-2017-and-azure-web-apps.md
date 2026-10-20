@@ -4,7 +4,6 @@ title: "Node.Js Express 4 Application in Visual Studio 2017 and Azure Web Apps"
 date: 2017-03-15
 description: "I’ve been playing with Node.js for one of our clients and this happened to be at the same time with Visual Studio 2017 release, so I though…"
 image: https://cdn-images-1.medium.com/max/1200/1*-Nq1fQSPq9aeoWxn4WFbhg.png
-medium_url: https://medium.com/@aramkoukia/node-js-express-4-application-in-visual-studio-2017-and-azure-web-apps-c86b67582cf4
 ---
 
 ### Node.Js Express 4 Application in Visual Studio 2017 and Azure Web Apps

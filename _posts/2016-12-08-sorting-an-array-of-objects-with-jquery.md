@@ -3,7 +3,6 @@ layout: post
 title: "Sorting an array of objects with Jquery"
 date: 2016-12-08
 description: "Imagine you have an array of objects like below and you want to sort them:"
-medium_url: https://medium.com/@aramkoukia/sorting-an-array-of-objects-with-jquery-d01e12047ce4
 ---
 
 ### Sorting an array of objects with Jquery

@@ -4,7 +4,6 @@ title: "Create a private #Ethereum #Consortium #Blockchain in #Azure"
 date: 2017-01-09
 description: "Private Blockchain network template in Azure"
 image: https://cdn-images-1.medium.com/max/2560/1*S_3lUOHDQoSjpoRemZsJHw.jpeg
-medium_url: https://medium.com/@aramkoukia/create-a-private-ethereum-consorium-blockchain-in-azure-3667185276b5
 ---
 
 ### Create a private #Ethereum #Consortium #Blockchain in #Azure

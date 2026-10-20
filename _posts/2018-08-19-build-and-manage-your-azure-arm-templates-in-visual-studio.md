@@ -4,7 +4,6 @@ title: "Build and Manage your Azure ARM templates in Visual Studio"
 date: 2018-08-19
 description: "One of the buzz words in the DevOps words is this “Infrastructure as Code” thing, and the Azure ARM Templates are a good example of how it…"
 image: https://cdn-images-1.medium.com/max/2560/1*cvmhSKjr96MPgjHQLAuLNA.png
-medium_url: https://medium.com/@aramkoukia/build-and-deploy-to-azure-using-azure-arm-templates-from-visual-studio-987b21d215ed
 ---
 
 ### Build and Manage your Azure ARM templates in Visual Studio

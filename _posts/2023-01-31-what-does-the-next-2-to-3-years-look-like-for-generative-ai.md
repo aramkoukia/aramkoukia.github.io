@@ -4,7 +4,6 @@ title: "What does the next 2 to 3 years look like for generative AI?"
 date: 2023-01-31
 description: "Generative AI seems to be everywhere these days and the bets are, this is jut the beginning and it will be more present in our lives in…"
 image: https://cdn-images-1.medium.com/max/800/0*9KdhdbXc3lYylGVT.jpg
-medium_url: https://medium.com/@aramkoukia/what-does-the-next-2-to-3-years-look-like-for-generative-ai-6e0c9b1ed8e4
 ---
 
 ### What does the next 2 to 3 years look like for generative AI?

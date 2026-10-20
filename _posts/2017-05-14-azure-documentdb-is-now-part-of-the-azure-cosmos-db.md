@@ -4,7 +4,6 @@ title: "Azure DocumentDB is now part of the Azure Cosmos DB"
 date: 2017-05-14
 description: "When Microsoft introduced Azure DocumentDB, it was just a Document database, and Microsoft’s NoSQL Solution in the cloud."
 image: https://cdn-images-1.medium.com/max/1200/1*AXmFA3fmAiHjS59yCE0ZXQ.png
-medium_url: https://medium.com/@aramkoukia/azure-documentdb-is-now-part-of-the-azure-cosmos-db-2435947e5b49
 ---
 
 ### Azure DocumentDB is now part of the Azure Cosmos DB

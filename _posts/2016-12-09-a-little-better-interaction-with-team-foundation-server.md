@@ -4,7 +4,6 @@ title: "A little better interaction with Team Foundation Server"
 date: 2016-12-09
 description: "When on a Microsoft Visual Studio project and using Team Foundation Server, and no extra extensions, you have probably noticed that there…"
 image: /assets/img/2016-12-09-a-little-better-interaction-with-team-foundation-server/1.png
-medium_url: https://medium.com/@aramkoukia/a-little-better-interaction-with-team-foundation-server-f676e6dd1946
 ---
 
 ### A little better interaction with Team Foundation Server

@@ -3,7 +3,6 @@ layout: post
 title: "Niece broke her arm during Christmas break!"
 date: 2023-01-15
 description: "My nephew broke her arm during Christmas break this year, when we had this frozen rain in the city!"
-medium_url: https://medium.com/@aramkoukia/nephew-broke-her-arm-during-christmas-break-bd0aefcf84f6
 ---
 
 ### Niece broke her arm during Christmas break!

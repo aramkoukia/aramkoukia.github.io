@@ -4,7 +4,6 @@ title: "Deploying Docker Containers to Azure App Service"
 date: 2017-10-07
 description: "When you containerize your application and want to use Azure to host it, there are 3 main options out there right now that you can use. And…"
 image: https://cdn-images-1.medium.com/max/800/1*lRlfF0Tx8hD53ZYniVFmKg.png
-medium_url: https://medium.com/@aramkoukia/deploying-docker-containers-to-azure-app-services-672d587c5c39
 ---
 
 ### Deploying Docker Containers to Azure App Service

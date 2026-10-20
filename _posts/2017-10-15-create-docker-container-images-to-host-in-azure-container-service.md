@@ -4,7 +4,6 @@ title: "Create Docker container images to host in Azure Container Service"
 date: 2017-10-15
 description: "Azure Container Service is one of the solutions that Azure provides for us, to host our containerized software components without having to…"
 image: https://cdn-images-1.medium.com/max/800/1*wZl2fkDHEU2YI2FwZ1uWUQ.jpeg
-medium_url: https://medium.com/@aramkoukia/create-docker-container-images-to-host-in-azure-container-service-d7b8542f3642
 ---
 
 ### Create Docker container images to host in Azure Container Service

@@ -4,7 +4,6 @@ title: "Oh, Hey. I’m Aram ( äräm/)"
 date: 2016-12-09
 description: "Software Development Team Lead, developer, software designer and architect."
 image: /assets/img/2016-12-09-oh-hey-im-aram-äräm/1.jpg
-medium_url: https://medium.com/@aramkoukia/oh-hey-im-aram-%C3%A4r%C3%A4m-ef859f21bd7
 ---
 
 ### Oh, Hey. I’m Aram ( äräm/)

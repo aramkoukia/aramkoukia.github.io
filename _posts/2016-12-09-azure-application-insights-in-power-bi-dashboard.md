@@ -4,7 +4,6 @@ title: "Azure Application Insights in Power BI dashboard"
 date: 2016-12-09
 description: "Azure Application Insights has become one of the best tools to collect telemetry data for all sort of application from Web to Mobile and…"
 image: /assets/img/2016-12-09-azure-application-insights-in-power-bi-dashboard/1.png
-medium_url: https://medium.com/@aramkoukia/azure-application-insights-in-power-bi-dashboard-93abbb1144a7
 ---
 
 ### Azure Application Insights in Power BI dashboard

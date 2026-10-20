@@ -4,7 +4,6 @@ title: "Build and deploy #Ethereum smart contracts using Visual Studio"
 date: 2017-01-17
 description: "The Story: Blockchain and Ethereum network"
 image: https://cdn-images-1.medium.com/max/1200/1*GrpshFUAu8l6Sr5u6KGQ4w.png
-medium_url: https://medium.com/@aramkoukia/build-and-deploy-an-ethereum-smart-contracts-using-visual-studio-10218d3b8091
 ---
 
 ### Build and deploy #Ethereum smart contracts using Visual Studio

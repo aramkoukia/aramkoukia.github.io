@@ -3,10 +3,9 @@ layout: post
 title: "I agree about the fields and events AmirAli SobhGol, I guess it depends on the requirements."
 date: 2018-01-26
 description: "Though Event Source has lot of other features than the ones you mentioned, I don’t think Event Source is needed for all services. Out of…"
-medium_url: https://medium.com/@aramkoukia/i-agree-about-the-fields-and-events-amirali-sobhgol-i-guess-it-depends-on-the-requirements-f5f73e8a6ea0
 ---
 
-I agree about the fields and events [AmirAli SobhGol](https://medium.com/u/8e776e6b1c25), I guess it depends on the requirements. People can decide to have 1 or more events based on changes to their domain objects.
+I agree about the fields and events AmirAli SobhGol, I guess it depends on the requirements. People can decide to have 1 or more events based on changes to their domain objects.
 
 Though Event Source has lot of other features than the ones you mentioned, I don’t think Event Source is needed for all services. Out of several services that you might have, some of them (The ones that handle Financial transactions are obvious candidates) could use this data store.
 

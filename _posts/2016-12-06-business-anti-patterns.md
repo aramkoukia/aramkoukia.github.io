@@ -4,7 +4,6 @@ title: "Business Anti-Patterns"
 date: 2016-12-06
 description: "I was listening to the .Net Rocks! podcast this week with Carl Franklin and Richard Campbell, and the guest on this specific episode was…"
 image: /assets/img/2016-12-06-business-anti-patterns/1.gif
-medium_url: https://medium.com/@aramkoukia/business-anti-patterns-352f4e66d8b2
 ---
 
 ### Business Anti-Patterns

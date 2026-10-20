@@ -4,7 +4,6 @@ title: "Run your application in Kubernetes Cluster in Azure Container Service"
 date: 2017-10-22
 description: "In a series of blogs, we built Docker container images, pushed those Docker images to Azure Container Registry and then Created a…"
 image: https://cdn-images-1.medium.com/max/800/1*gBCQs2axJ0YEcp3X8FoWcw.png
-medium_url: https://medium.com/@aramkoukia/run-your-application-in-kubernetes-cluster-in-azure-container-service-85f87edceee3
 ---
 
 ### Run your application in Kubernetes Cluster in Azure Container Service

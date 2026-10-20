@@ -4,7 +4,6 @@ title: "A Microservices implementation journey — Part 3"
 date: 2018-01-28
 description: "I hope you read the First and Second part of this Microservices Implementation Journey and found them useful."
 image: https://cdn-images-1.medium.com/max/800/1*oSOTEY5OOcyjFvJ4utjiYw.jpeg
-medium_url: https://medium.com/@aramkoukia/a-microservices-implementation-journey-part-3-50f030ba6bb5
 ---
 
 ### A Microservices implementation journey — Part 3

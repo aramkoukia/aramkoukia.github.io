@@ -4,7 +4,6 @@ title: "VSTS is dead, long live Azure DevOps"
 date: 2018-09-10
 description: "Starting today, if you use Azure you will get DevOps, whether you want it or not!"
 image: https://cdn-images-1.medium.com/max/1200/1*ufz1-ED69SSID21w1TCnRg.jpeg
-medium_url: https://medium.com/@aramkoukia/vsts-is-dead-long-live-azure-devops-6f184baa7e56
 ---
 
 ### VSTS is dead, long live Azure DevOps

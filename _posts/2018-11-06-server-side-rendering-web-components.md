@@ -4,7 +4,6 @@ title: "Server Side Rendering Web Components"
 date: 2018-11-06
 description: "In this article I want to talk about Server Side Rendering Web Component. But for those of you who aren’t sure what is Server Side…"
 image: https://cdn-images-1.medium.com/max/800/1*YyJH5w2rOU3SWngmXDug5A.jpeg
-medium_url: https://medium.com/@aramkoukia/server-side-rendering-web-components-fc99715e38f5
 ---
 
 ### Server Side Rendering Web Components

@@ -4,7 +4,6 @@ title: "How to programmatically navigate using react router?"
 date: 2020-03-27
 description: "This is a quick one about “react-router”, a problem I faced and the solution I found, so just wanted to share with you!"
 image: https://cdn-images-1.medium.com/max/800/0*Jc3Yjgc6wGlBMayY.jpeg
-medium_url: https://medium.com/@aramkoukia/how-to-programmatically-navigate-using-react-router-77167cea68c8
 ---
 
 ### How to programmatically navigate using react router?

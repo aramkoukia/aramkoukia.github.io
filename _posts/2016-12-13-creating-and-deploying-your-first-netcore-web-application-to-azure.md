@@ -4,7 +4,6 @@ title: "Creating and Deploying your first #NetCore web application to #Azure"
 date: 2016-12-13
 description: "In this video, I’m going to show you how to create your first .Net Core application from Microsoft Visual Studio and deploy it to Azure in…"
 image: /assets/img/2016-12-13-creating-and-deploying-your-first-netcore-web-application-to-azure/1.jpg
-medium_url: https://medium.com/@aramkoukia/creating-and-deploying-your-first-netcore-web-application-to-azure-f6b9a4f87eac
 ---
 
 ### Creating and Deploying your first #NetCore web application to #Azure

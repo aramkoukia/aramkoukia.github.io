@@ -4,7 +4,6 @@ title: "Remote Profiling in #Azure Web Apps and API Apps"
 date: 2016-12-07
 description: "Today I’m going to show you how to do Remote Profiling on an Azure Web App or Azure API App or a WebJob."
 image: /assets/img/2016-12-07-remote-profiling-in-azure-web-apps-and-api-apps/1.png
-medium_url: https://medium.com/@aramkoukia/remote-profiling-in-azure-web-apps-and-api-apps-a1689c42a8c0
 ---
 
 ### Remote Profiling in #Azure Web Apps and API Apps

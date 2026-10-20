@@ -4,7 +4,6 @@ title: "Public and Open-Source API to track development of COVID19 or Corona Vir
 date: 2020-03-21
 description: "Unless you have been living under some rock or in long meditation sessions, you have not missed this nasty COVID19 virus pandemic!"
 image: https://cdn-images-1.medium.com/max/800/0*KR4Uk_ECjaOBZMiT
-medium_url: https://medium.com/@aramkoukia/public-and-open-source-api-to-track-development-of-covid19-or-corona-virus-live-c297526f8b44
 ---
 
 ### Public and Open-Source API to track development of COVID19 or Corona Virus live!

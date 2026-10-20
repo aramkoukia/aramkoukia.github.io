@@ -3,10 +3,9 @@ layout: post
 title: "Hi Todd Hilehoffer"
 date: 2018-01-24
 description: "I get that it might look like a lot of change compared to a monolith, but we should always think about the reasons “why” we want to have…"
-medium_url: https://medium.com/@aramkoukia/hi-todd-hilehoffer-518f4efa61f8
 ---
 
-Hi [Todd Hilehoffer](https://medium.com/u/4adfa0345776)
+Hi Todd Hilehoffer
 
 I get that it might look like a lot of change compared to a monolith, but we should always think about the reasons “why” we want to have Microservices. You can refer to the first part of this article and see if you have such requirements. If not, then I guess this is not for you :)
 

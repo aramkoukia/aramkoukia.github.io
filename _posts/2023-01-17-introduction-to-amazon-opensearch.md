@@ -4,7 +4,6 @@ title: "Introduction to Amazon OpenSearch"
 date: 2023-01-17
 description: "Amazon OpenSearch is a service that enables you to build a search application that queries your data in Amazon Elasticsearch Service…"
 image: https://cdn-images-1.medium.com/max/800/0*rEICl9pAXgUaQB1Q.png
-medium_url: https://medium.com/@aramkoukia/introduction-to-amazon-opensearch-a3c111f61123
 ---
 
 ### Introduction to Amazon OpenSearch

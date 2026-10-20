@@ -4,7 +4,6 @@ title: "Check how much of your CSS or JavaScript is actually used!"
 date: 2018-11-20
 description: "Working with JavaScript and CSS and particularly NodeJs and the millions of packages and libraries we download everyday has made it easy…"
 image: https://cdn-images-1.medium.com/max/800/1*vdGkAIS5io153jqnatuucA.jpeg
-medium_url: https://medium.com/@aramkoukia/check-how-much-of-your-css-or-javascript-is-actually-used-7e60f5a60495
 ---
 
 ### Check how much of your CSS or JavaScript is actually used!

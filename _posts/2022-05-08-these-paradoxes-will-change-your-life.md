@@ -4,7 +4,6 @@ title: "These paradoxes will change your life"
 date: 2022-05-08
 description: "The Brakes Paradox"
 image: https://cdn-images-1.medium.com/max/800/0*BaHN9oNb81zyNfwI.jpg
-medium_url: https://medium.com/@aramkoukia/these-paradoxes-will-change-your-life-549865128ee8
 ---
 
 ### These paradoxes will change your life

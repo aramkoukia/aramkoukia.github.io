@@ -4,7 +4,6 @@ title: "How to remove local untracked files from the current Git branch"
 date: 2017-08-14
 description: "Well, the short answer as per the Git Documents is git clean"
 image: https://cdn-images-1.medium.com/max/800/1*SptUKxY2gmxa4XC3W1_nRw.jpeg
-medium_url: https://medium.com/@aramkoukia/how-to-remove-local-untracked-files-from-the-current-git-branch-571c6ce9b6b1
 ---
 
 ### How to remove local untracked files from the current Git branch

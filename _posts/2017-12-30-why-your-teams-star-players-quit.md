@@ -4,7 +4,6 @@ title: "Why your team’s star players quit?"
 date: 2017-12-30
 description: "When you see this happy guy or gal from your team around the office, or in the kitchen, whom is always smiling, and never whines or…"
 image: https://cdn-images-1.medium.com/max/1200/1*RAy1cHi8F-xWuIIGy2FaXw.jpeg
-medium_url: https://medium.com/@aramkoukia/why-your-teams-star-players-quit-923de334ba03
 ---
 
 ### Why your team’s star players quit?

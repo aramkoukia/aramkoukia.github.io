@@ -4,7 +4,6 @@ title: "Chatbots: A Leading Marketing Tool"
 date: 2018-04-13
 description: "The year was 1950 when Alan Turing published the article “Computing Machinery and Intelligence”. It included the “Turing test” which is now…"
 image: https://cdn-images-1.medium.com/max/800/1*03DzAXoA_aSIkSX95vvxQQ.png
-medium_url: https://medium.com/@aramkoukia/chatbots-a-leading-marketing-tool-a114a0dfb2c3
 ---
 
 ### **Chatbots: A Leading Marketing Tool**

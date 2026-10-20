@@ -4,7 +4,6 @@ title: "#Azure Functions and how they work"
 date: 2016-12-07
 description: "What are Azure Functions?"
 image: /assets/img/2016-12-07-azure-functions-and-how-they-work/1.png
-medium_url: https://medium.com/@aramkoukia/azure-functions-and-how-they-work-6b515007001e
 ---
 
 ### #Azure Functions and how they work

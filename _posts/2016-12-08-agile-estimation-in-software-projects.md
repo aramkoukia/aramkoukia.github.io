@@ -4,7 +4,6 @@ title: "Agile Estimation in software projects"
 date: 2016-12-08
 description: "Agile Estimate is really just an approach or a framework for estimating effort in a software project."
 image: /assets/img/2016-12-08-agile-estimation-in-software-projects/1.jpg
-medium_url: https://medium.com/@aramkoukia/agile-estimation-in-software-projects-9734b4f708e1
 ---
 
 ### Agile Estimation in software projects

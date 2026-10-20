@@ -4,7 +4,6 @@ title: "Upgrading your Angular App to latest version (4.0.0)"
 date: 2017-04-10
 description: "Angular version 4.0.0 is released (March 2017) and your Angular 2.X application will not break when you upgrade!"
 image: https://cdn-images-1.medium.com/max/1200/1*Sj9GmC-vkFPRsqp53T3oAA.jpeg
-medium_url: https://medium.com/@aramkoukia/upgrading-your-angular-app-to-latest-version-4-0-0-b39c2fbdf24
 ---
 
 ### Upgrading your Angular App to latest version (4.0.0)

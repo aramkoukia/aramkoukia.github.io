@@ -4,7 +4,6 @@ title: "Greatness vs Mimicking Greatness"
 date: 2021-09-04
 description: "The topic of “Power vs Greatness“ and their relationship has been on my mind for a while so I thought I do a brain dump in here, with the…"
 image: https://cdn-images-1.medium.com/max/800/0*MFzspfGQo9lhToyp.jpg
-medium_url: https://medium.com/@aramkoukia/greatness-vs-mimicking-greatness-c6abc04649b9
 ---
 
 ### Greatness vs Mimicking Greatness

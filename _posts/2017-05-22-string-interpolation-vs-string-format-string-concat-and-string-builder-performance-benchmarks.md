@@ -4,7 +4,6 @@ title: "String Interpolation vs String Format, String Concat and String Builder 
 date: 2017-05-22
 description: "I recently did a simple test without using any benchmark framework and wrote about it here, and it turned to a liberal vs conservative…"
 image: https://cdn-images-1.medium.com/max/1200/1*WmVaOVTSYvSuQmnUmC6P8g.png
-medium_url: https://medium.com/@aramkoukia/string-interpolation-vs-string-format-string-concat-and-string-builder-performance-benchmarks-c1dad38032a
 ---
 
 ### String Interpolation vs String Format, String Concat and String Builder performance benchmarks

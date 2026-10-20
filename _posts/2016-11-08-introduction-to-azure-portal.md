@@ -4,7 +4,6 @@ title: "Introduction to Azure Portal"
 date: 2016-11-08
 description: "The new Azure portal provides the easiest way to manage the resources you deploy into Azure. You can use this portal to create virtual…"
 image: /assets/img/2016-11-08-introduction-to-azure-portal/1.png
-medium_url: https://medium.com/@aramkoukia/introduction-to-azure-portal-3905b5ae4f10
 ---
 
 ### **Introduction to Azure Portal**

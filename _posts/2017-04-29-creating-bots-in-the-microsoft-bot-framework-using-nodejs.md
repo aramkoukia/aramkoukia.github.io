@@ -4,7 +4,6 @@ title: "Creating Bots in the Microsoft Bot Framework using Node.js"
 date: 2017-04-29
 description: "I came across this great Microsoft Bot Introduction Course a while ago and thought to share it with you."
 image: https://cdn-images-1.medium.com/max/800/1*6yzfhTg325gMPzPNGZuqNA.jpeg
-medium_url: https://medium.com/@aramkoukia/creating-bots-in-the-microsoft-bot-framework-using-node-js-69d27d55bb92
 ---
 
 ### Creating Bots in the Microsoft Bot Framework using Node.js

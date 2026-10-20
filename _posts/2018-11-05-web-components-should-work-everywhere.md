@@ -4,7 +4,6 @@ title: "Web Components Should Work Everywhere!"
 date: 2018-11-05
 description: "I have been looking into ways to build more abstract Web Component for our project where I work and it has been an amazing journey so far."
 image: https://cdn-images-1.medium.com/max/800/1*aIuPqDswFqVT0hMs3lzCNA.png
-medium_url: https://medium.com/@aramkoukia/web-components-should-work-everywhere-545f52acd0fb
 ---
 
 ### Web Components Should Work Everywhere!

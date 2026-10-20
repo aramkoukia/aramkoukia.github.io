@@ -4,7 +4,6 @@ title: "How to pass parameters or querystring from API Gateway to AWS Lambda?"
 date: 2023-04-16
 description: "Amazon API Gateway is a service that allows you to create, manage and secure APIs for your applications. One of the common use cases for…"
 image: https://cdn-images-1.medium.com/max/800/1*A5kIemGtjMaAcxs3lZIYxQ.png
-medium_url: https://medium.com/@aramkoukia/how-to-pass-parameters-or-querystring-to-aws-lambda-from-api-gateway-bdfdc33bb8e5
 ---
 
 ### How to pass parameters or querystring from API Gateway to AWS Lambda?

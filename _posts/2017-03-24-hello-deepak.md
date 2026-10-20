@@ -3,7 +3,6 @@ layout: post
 title: "Hello Deepak,"
 date: 2017-03-24
 description: "I have these two posts about creating Ethereum Smart Contracts, using C#:"
-medium_url: https://medium.com/@aramkoukia/hello-deepak-8341302a8c57
 ---
 
 Hello Deepak,

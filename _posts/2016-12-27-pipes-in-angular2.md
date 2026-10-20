@@ -4,7 +4,6 @@ title: "Pipes in #Angular2"
 date: 2016-12-27
 description: "Pipe is a mechanism for transforming and formatting data within HTML templates in an Angular2 application."
 image: https://cdn-images-1.medium.com/max/800/1*4hhei-6UcZ1OFUG7-Z_vjw.jpeg
-medium_url: https://medium.com/@aramkoukia/pipes-in-angular2-be9fc5212045
 ---
 
 ### Pipes in #Angular2

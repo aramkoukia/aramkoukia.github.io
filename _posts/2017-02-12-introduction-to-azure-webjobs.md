@@ -4,7 +4,6 @@ title: "Introduction to Azure WebJobs"
 date: 2017-02-12
 description: "Azure WebJobs to me are same old Windows Services, but better! Hosted in the Azure cloud with tons of features around them, like debugging…"
 image: https://cdn-images-1.medium.com/max/800/1*B7fIru1tsATqJYWhTQuyJg.jpeg
-medium_url: https://medium.com/@aramkoukia/introduction-to-azure-webjobs-7c122ff05dcb
 ---
 
 ### Introduction to Azure WebJobs

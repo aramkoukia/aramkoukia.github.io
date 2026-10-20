@@ -4,7 +4,6 @@ title: "How to checkout a remote git branch"
 date: 2020-02-17
 description: "Ever happened to you that someone in the team pushes a new branch to the remote git repository and they you want to checkout their branch?"
 image: https://cdn-images-1.medium.com/max/800/1*F6ETgzl5vAnFxNNwtyHK9g.jpeg
-medium_url: https://medium.com/@aramkoukia/how-to-checkout-a-remote-git-branch-13e3aee861a9
 ---
 
 ### How to checkout a remote git branch

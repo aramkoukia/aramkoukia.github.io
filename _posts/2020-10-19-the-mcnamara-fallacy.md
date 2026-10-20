@@ -4,7 +4,6 @@ title: "The McNamara Fallacy"
 date: 2020-10-19
 description: "First step is to measure what can be easily measured. This is okay as far as it goes."
 image: https://cdn-images-1.medium.com/max/800/0*yUTAgnaRzFu0_l1B.png
-medium_url: https://medium.com/@aramkoukia/the-mcnamara-fallacy-f22c605837b0
 ---
 
 ### The McNamara Fallacy

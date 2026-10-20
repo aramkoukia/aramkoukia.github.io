@@ -4,7 +4,6 @@ title: "Implementing a Caching layer, with Unity Interceptor, leveraging CacheMa
 date: 2018-01-07
 description: "Recently I started looking into improving some of our Caching code, and we decided to implement it using some Aspect Oriented Programming…"
 image: https://cdn-images-1.medium.com/max/800/1*M8iRf-agb7RrZj5TngdFbg.png
-medium_url: https://medium.com/@aramkoukia/implementing-a-caching-layer-with-unity-interceptor-leveraging-cachemanager-open-source-library-25633075858a
 ---
 
 ### Implementing a Caching layer, with Unity Interceptor, leveraging CacheManager open source library

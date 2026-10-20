@@ -4,7 +4,6 @@ title: "Factory #DesignPattern in #JavaScript"
 date: 2016-12-12
 description: "Factory is a popular design pattern that we use a lot for creating objects. In Factory pattern, we create object without exposing the…"
 image: /assets/img/2016-12-12-factory-designpattern-in-javascript/1.gif
-medium_url: https://medium.com/@aramkoukia/factory-designpattern-in-javascript-2a1ec45ff461
 ---
 
 ### Factory #DesignPattern in #JavaScript

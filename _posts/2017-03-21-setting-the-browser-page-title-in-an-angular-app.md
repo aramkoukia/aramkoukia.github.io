@@ -4,7 +4,6 @@ title: "Setting the browser page Title in an Angular app"
 date: 2017-03-21
 description: "Single page applications are great, but search engines aren’t a big fan of them, when it comes to indexing and etc. because the page title…"
 image: https://cdn-images-1.medium.com/max/1200/1*O3bdH0eYgK2c7nqgrgggsw.png
-medium_url: https://medium.com/@aramkoukia/setting-the-browser-page-title-in-an-angular-app-cda86242cfb1
 ---
 
 ### Setting the browser page Title in an Angular app

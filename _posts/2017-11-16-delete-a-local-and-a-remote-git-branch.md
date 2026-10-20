@@ -4,7 +4,6 @@ title: "Delete a local and a remote GIT branch"
 date: 2017-11-16
 description: "Have you ever gone through a few sprints of work, created several local and remote branches and wondering how to get rid of them (both…"
 image: https://cdn-images-1.medium.com/max/800/1*zhYQt3quMouCIzJrROdUBQ.jpeg
-medium_url: https://medium.com/@aramkoukia/delete-a-local-and-a-remote-git-branch-61df0b10d323
 ---
 
 ### Delete a local and a remote GIT branch

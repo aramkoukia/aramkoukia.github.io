@@ -4,7 +4,6 @@ title: "Running Windows Containers on Kubernetes Cluster on Azure Container Serv
 date: 2017-11-19
 description: "Creating the Resource Group"
 image: https://cdn-images-1.medium.com/max/800/1*FRQCLwm25omfQLR4qxcmNQ.jpeg
-medium_url: https://medium.com/@aramkoukia/running-windows-containers-on-kubernetes-cluster-on-azure-container-service-99e8de0d9cf4
 ---
 
 ### Running Windows Containers on Kubernetes Cluster on Azure Container Service

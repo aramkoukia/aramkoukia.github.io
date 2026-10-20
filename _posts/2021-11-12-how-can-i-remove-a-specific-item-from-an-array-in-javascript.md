@@ -4,7 +4,6 @@ title: "How can I remove a specific item from an array in JavaScript?"
 date: 2021-11-12
 description: "To do this we can find the index of the array we want to remove with indexOf, and remove that item with splice"
 image: https://cdn-images-1.medium.com/max/800/0*rXEw3UTGyszrau10.png
-medium_url: https://medium.com/@aramkoukia/how-can-i-remove-a-specific-item-from-an-array-in-javascript-db0c0c21fe50
 ---
 
 ### How can I remove a specific item from an array in JavaScript?

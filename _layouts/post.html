@@ -20,9 +20,14 @@ layout: default
   </div>
 
   <footer class="post-foot">
-    {% if page.medium_url %}
-    <p class="origin">First published on <a href="{{ page.medium_url }}">Medium</a>.</p>
-    {% endif %}
+    <aside class="author-card">
+      {% include avatar.html small=true %}
+      <div>
+        <p class="author-name">Written by {{ site.author }}</p>
+        <p>{{ site.data.profile.headline }}. I write about technical leadership, systems at scale, and teams that love what they build.</p>
+        <p class="author-links"><a href="{{ '/about/' | relative_url }}">More about me</a> · <a href="https://www.linkedin.com/in/{{ site.social.linkedin }}/">Say hi on LinkedIn</a></p>
+      </div>
+    </aside>
     <nav class="post-nav" aria-label="More posts">
       {% if page.next %}
       <a class="older" href="{{ page.next.url | relative_url }}"><span>Older</span>{{ page.next.title | escape }}</a>

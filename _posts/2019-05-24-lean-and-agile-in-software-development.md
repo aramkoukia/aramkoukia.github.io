@@ -4,7 +4,6 @@ title: "Lean and Agile in Software development"
 date: 2019-05-24
 description: "You maybe hearing about terms “Lean” and “Agile” in software development and find some confusion between the two."
 image: https://cdn-images-1.medium.com/max/800/1*D6X17PAD7FP2NnzGp7h44w.png
-medium_url: https://medium.com/@aramkoukia/lean-and-agile-in-software-development-67bb4ad15cf2
 ---
 
 ### Lean and Agile in Software development

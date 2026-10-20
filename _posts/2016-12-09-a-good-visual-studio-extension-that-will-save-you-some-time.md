@@ -4,7 +4,6 @@ title: "A good Visual Studio extension that will save you some time"
 date: 2016-12-09
 description: "When you are dealing with large solutions, and there are tons of cross project references in your solution, it happens quiet often that you…"
 image: /assets/img/2016-12-09-a-good-visual-studio-extension-that-will-save-you-some-time/1.png
-medium_url: https://medium.com/@aramkoukia/a-good-visual-studio-extension-that-will-save-you-some-time-a50dc6516587
 ---
 
 ### A good Visual Studio extension that will save you some time

@@ -4,7 +4,6 @@ title: "Deleting all resources, created in one Resource Group in #Azure"
 date: 2017-01-10
 description: "When you deploy a big system with a hand full or even more of resources in Azure, and put them all in one resource group, you have a lot of…"
 image: https://cdn-images-1.medium.com/max/800/1*A5TE9cItH27lh6WKl1Y4Xw.png
-medium_url: https://medium.com/@aramkoukia/deleting-all-resources-created-in-one-resource-group-in-azure-29ddfe11e2d2
 ---
 
 ### Deleting all resources, created in one Resource Group in #Azure

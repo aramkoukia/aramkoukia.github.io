@@ -4,7 +4,6 @@ title: "STUFF vs COALESCE in TSQL for Concatenating row values"
 date: 2016-12-08
 description: "Say you have a result set that looks like the following table:"
 image: /assets/img/2016-12-08-stuff-vs-coalesce-in-tsql-for-concatenating-row-values/1.png
-medium_url: https://medium.com/@aramkoukia/stuff-vs-coalesce-in-tsql-for-concatenating-row-values-aefb078536f8
 ---
 
 ### STUFF vs COALESCE in TSQL for Concatenating row values

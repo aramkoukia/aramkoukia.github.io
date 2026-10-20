@@ -3,7 +3,6 @@ layout: post
 title: "Implementing Single Sign-On Part 3: Connecting the Application to Windows Azure AD"
 date: 2016-12-08
 description: "So now we have done setup our WAAD setup and we are ready to create a simple web application with Microsoft Visual Studio to use the users…"
-medium_url: https://medium.com/@aramkoukia/implementing-single-sign-on-part-3-connecting-the-application-to-windows-azure-ad-be063a9d22fa
 ---
 
 ### Implementing Single Sign-On Part 3: Connecting the Application to Windows Azure AD

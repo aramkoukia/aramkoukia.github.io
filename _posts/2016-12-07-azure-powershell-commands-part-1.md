@@ -3,7 +3,6 @@ layout: post
 title: "#Azure #Powershell commands (Part 1)"
 date: 2016-12-07
 description: "Login to Azure"
-medium_url: https://medium.com/@aramkoukia/azure-powershell-commands-part-1-e73b0c220153
 ---
 
 ### #Azure #Powershell commands (Part 1)

@@ -4,7 +4,6 @@ title: "Using IL Weaving (PostSharp) for a cleaner code (AOP)"
 date: 2016-12-09
 description: "You might have read this post that I wrote a while back about Clean Code and using Interceptors to do some aspect oriented programming…"
 image: /assets/img/2016-12-09-using-il-weaving-postsharp-for-a-cleaner-code-aop/1.jpg
-medium_url: https://medium.com/@aramkoukia/using-il-weaving-postsharp-for-a-cleaner-code-aop-b909aae2bcd3
 ---
 
 ### Using IL Weaving (PostSharp) for a cleaner code (AOP)

@@ -4,7 +4,6 @@ title: "Azure Powershell commands — Part 2"
 date: 2016-12-09
 description: "You can have multiple subscriptions under one account in Azure, and when you use the Azure portal you have the option to select one or many…"
 image: /assets/img/2016-12-09-azure-powershell-commands-part-2/1.png
-medium_url: https://medium.com/@aramkoukia/azure-powershell-commands-part-2-3f51366f0b87
 ---
 
 ### Azure Powershell commands — Part 2

@@ -4,7 +4,6 @@ title: "How can I list all the resources available in my AWS account?"
 date: 2023-01-21
 description: "This used to be a really hard problem on AWS but not anymore (At least for most of the resource types)."
 image: https://cdn-images-1.medium.com/max/800/0*f6U7Z5d-HOPL-y_4.png
-medium_url: https://medium.com/@aramkoukia/how-can-i-list-all-the-resources-available-in-my-aws-account-2047e4a83f
 ---
 
 ### How can I list all the resources available in my AWS account?

@@ -1,0 +1,43 @@
+---
+layout: default
+---
+{% assign p = site.data.profile %}
+<section class="page-hero about-hero">
+  <div class="wrap about-grid">
+    {% include avatar.html %}
+    <div>
+      <p class="eyebrow">About</p>
+      <h1>{{ p.name }} <span class="pron">/{{ p.pronounce }}/</span></h1>
+      <p class="lede">{{ p.headline }}</p>
+      {% include social.html %}
+    </div>
+  </div>
+</section>
+
+<div class="wrap about-body">
+  <article class="prose about-prose">
+    {{ content }}
+  </article>
+
+  <aside class="about-side">
+    <section>
+      <h2 class="side-title">The journey</h2>
+      <ol class="timeline">
+        {% for t in p.timeline %}
+        <li class="reveal">
+          <span class="when">{{ t.when }}</span>
+          <h3>{{ t.title }}</h3>
+          <p class="org">{{ t.org }}</p>
+          <p>{{ t.text }}</p>
+        </li>
+        {% endfor %}
+      </ol>
+    </section>
+    <section>
+      <h2 class="side-title">Off the clock</h2>
+      <ul class="chips">
+        {% for i in p.interests %}<li><span aria-hidden="true">{{ i.emoji }}</span> {{ i.label }}</li>{% endfor %}
+      </ul>
+    </section>
+  </aside>
+</div>

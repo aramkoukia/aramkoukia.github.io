@@ -4,7 +4,6 @@ title: "Microservices Architecture vs Service Oriented Architecture (SOA)"
 date: 2017-08-03
 description: "If you ask 10 people, “what are Microservices?” you will get 10 different answers. Even if you ask “ME” this question 10 times, chances are…"
 image: https://cdn-images-1.medium.com/max/1200/1*TBU1yLasGjhEqWTucVdq-g.jpeg
-medium_url: https://medium.com/@aramkoukia/microservices-architecture-vs-service-oriented-architecture-soa-d016e3a309e6
 ---
 
 ### Microservices Architecture vs Service Oriented Architecture (SOA)

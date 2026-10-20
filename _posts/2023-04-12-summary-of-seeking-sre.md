@@ -4,7 +4,6 @@ title: "Summary of Seeking SRE"
 date: 2023-04-12
 description: "Seeking SRE is a book that explores the diverse and evolving field of Site Reliability Engineering (SRE), which is a discipline that aims…"
 image: https://cdn-images-1.medium.com/max/800/0*7LPepiMwyyba3oR2
-medium_url: https://medium.com/@aramkoukia/summary-of-seeking-sre-2ef8e190256e
 ---
 
 ### Summary of Seeking SRE

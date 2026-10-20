@@ -4,7 +4,6 @@ title: "Let SQL Server Query do the pagination for you (OFFSET FETCH Clause in S
 date: 2016-12-08
 description: "If you have done some Web programming or any similar scenario that needs to read data from database in chunks for performance reasons, you…"
 image: /assets/img/2016-12-08-let-sql-server-query-do-the-pagination-for-you-offset-fetch-clause-in-sql-2012/1.png
-medium_url: https://medium.com/@aramkoukia/let-sql-server-query-do-the-pagination-for-you-offset-fetch-clause-in-sql-2012-a52ca6e5beb2
 ---
 
 ### Let SQL Server Query do the pagination for you (OFFSET FETCH Clause in SQL 2012)

@@ -4,7 +4,6 @@ title: "Standalone Microsoft SQL Server Management Studio"
 date: 2016-12-07
 description: "Finally! you can install Microsoft SQL Server Management Studio for Free! and without the need to install a SQL Server Instance! 
 It’s just…"
-medium_url: https://medium.com/@aramkoukia/standalone-microsoft-sql-server-management-studio-f31cf825df9a
 ---
 
 ### Standalone Microsoft SQL Server Management Studio

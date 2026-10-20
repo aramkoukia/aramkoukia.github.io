@@ -4,7 +4,6 @@ title: "Iran 2022 Revolution — Day 1"
 date: 2022-11-06
 description: "Tuesday September 22nd, 20:22 Tehran local timezone Iran’s 2022 revolution started!"
 image: https://cdn-images-1.medium.com/max/800/0*MD3RZ8VSW4Bgf9yb.png
-medium_url: https://medium.com/@aramkoukia/iran-2022-revolution-day-1-1c9d995f8c65
 ---
 
 ### Iran Revolution. Day 1 , September 16th, 2022.
