@@ -1,0 +1,39 @@
+title: Aram Koukia
+email: ""
+description: >-
+  Technical leadership, scalable engineering, and cloud architecture.
+# For a project-less user site the repo must be named <username>.github.io
+url: "https://aramkoukia.github.io"
+baseurl: ""
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+
+paginate: 10
+paginate_path: "/page:num/"
+permalink: /:year/:month/:title/
+
+minima:
+  social_links:
+    github: aramkoukia
+    linkedin: aramkoukia
+    medium: "@aramkoukia"
+    # twitter: your_handle
+
+header_pages:
+  - about.md
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+exclude:
+  - tools/
+  - README.md
+  - Gemfile
+  - Gemfile.lock
