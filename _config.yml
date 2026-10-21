@@ -15,6 +15,13 @@ social:
   github: aramkoukia
   linkedin: aram-koukia
 
+# Topics shown first in the home page filter, in this order. The rest follow by post count.
+featured_tags:
+  - Leadership
+  - AI
+  - Product & Agile
+  - AWS
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag

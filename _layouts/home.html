@@ -22,9 +22,12 @@ layout: default
     <div class="tag-filter" role="group" aria-label="Filter by topic">
       <span class="tag-filter-label">Topics</span>
       <button type="button" class="tag" data-tag="" aria-pressed="true">All</button>
-      {% for r in ranked %}{% assign parts = r | split: "#" %}{% assign name = parts[1] %}
+      {% for name in site.featured_tags %}{% if site.tags[name] %}
       <button type="button" class="tag" data-tag="{{ name | slugify }}" aria-pressed="false">{{ name | escape }}</button>
-      {% endfor %}
+      {% endif %}{% endfor %}
+      {% for r in ranked %}{% assign parts = r | split: "#" %}{% assign name = parts[1] %}{% unless site.featured_tags contains name %}
+      <button type="button" class="tag" data-tag="{{ name | slugify }}" aria-pressed="false">{{ name | escape }}</button>
+      {% endunless %}{% endfor %}
     </div>
     {% include post-list.html %}
     <p id="empty" class="empty" hidden>No posts match “<span></span>”. Try a shorter search term.</p>
