@@ -9,7 +9,7 @@
   <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400..800&family=Instrument+Serif:ital@0;1&family=JetBrains+Mono:wght@400;500&family=Newsreader:ital,opsz,wght@0,6..72,400..700;1,6..72,400..600&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400..700&family=Instrument+Serif:ital@0;1&family=JetBrains+Mono:wght@400;500&family=Newsreader:ital,opsz,wght@0,6..72,400..700;1,6..72,400..600&display=swap">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   <script>
     (function () {
@@ -22,12 +22,11 @@
     })();
   </script>
 </head>
-{% assign section = 'home' %}
-{% if page.layout == 'post' or page.url == '/blog/' %}{% assign section = 'blog' %}{% elsif page.url == '/about/' %}{% assign section = 'about' %}{% endif %}
+{% assign section = '' %}
+{% if page.layout == 'post' or page.layout == 'home' %}{% assign section = 'blog' %}{% elsif page.url == '/about/' %}{% assign section = 'about' %}{% endif %}
 <body class="{% if page.layout == 'post' %}is-post{% endif %} s-{{ section }}">
   <a class="skip" href="#main">Skip to content</a>
   {% if page.layout == 'post' %}<div id="progress" aria-hidden="true"></div>{% endif %}
-  <div class="aurora" aria-hidden="true"><span></span><span></span><span></span></div>
 
   <header class="site-header">
     <div class="wrap bar">
@@ -36,8 +35,7 @@
         {{ site.title }}
       </a>
       <nav class="nav" aria-label="Main">
-        <a href="{{ '/' | relative_url }}" {% if section == 'home' and page.url == '/' %}aria-current="page"{% endif %}>Home</a>
-        <a href="{{ '/blog/' | relative_url }}" {% if section == 'blog' %}aria-current="page"{% endif %}>Blog</a>
+        <a href="{{ '/' | relative_url }}" {% if section == 'blog' %}aria-current="page"{% endif %}>Blog</a>
         <a href="{{ '/about/' | relative_url }}" {% if section == 'about' %}aria-current="page"{% endif %}>About</a>
         <button class="theme-toggle" type="button" aria-label="Switch to dark theme">
           <svg class="icon-moon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
@@ -53,7 +51,7 @@
 
   <footer class="site-footer">
     <div class="wrap foot">
-      <p>&copy; {{ 'now' | date: '%Y' }} {{ site.author }} · Made with curiosity and a few bad jokes.</p>
+      <p>&copy; {{ 'now' | date: '%Y' }} {{ site.author }}</p>
       {% include social.html %}
     </div>
   </footer>

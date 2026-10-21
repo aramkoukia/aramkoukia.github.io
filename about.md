@@ -37,5 +37,5 @@ honest lessons from the field. The views on this site are my own.
 
 ## Say hello
 
-The best place to reach me is [LinkedIn](https://www.linkedin.com/in/aram-koukia/). You'll also
-find my code on [GitHub](https://github.com/aramkoukia).
+The best place to reach me is [LinkedIn](https://www.linkedin.com/in/aram-koukia/), which is also
+where you'll find my work history. My code is on [GitHub](https://github.com/aramkoukia).

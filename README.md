@@ -17,6 +17,6 @@ Create `_posts/YYYY-MM-DD-my-title.md`:
     bundle exec jekyll serve
 
 ## Edit the profile
-Home and About page content (roles, stats, focus cards, timeline, interests) lives in
-`_data/profile.yml`. The About bio is in `about.md`. To use a photo instead of the
+The home page is the post list. Name, pronunciation, and headline for the About page live in
+`_data/profile.yml`; the About bio is in `about.md`. Work history is on LinkedIn only. To use a photo instead of the
 monogram, add it under `assets/img/` and set `avatar:` in `_config.yml`.
