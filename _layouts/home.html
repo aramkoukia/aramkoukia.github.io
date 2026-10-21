@@ -17,6 +17,14 @@ layout: default
         <input id="filter" type="search" placeholder="Filter by title or topic" autocomplete="off">
       </label>
     </div>
+    {% capture counted %}{% for t in site.tags %}{{ t[1].size | plus: 1000 }}#{{ t[0] }}|{% endfor %}{% endcapture %}
+    {% assign ranked = counted | split: "|" | sort | reverse %}
+    <div class="tag-filter" role="group" aria-label="Filter by topic">
+      <button type="button" class="tag" data-tag="" aria-pressed="true">All</button>
+      {% for r in ranked %}{% assign parts = r | split: "#" %}{% assign name = parts[1] %}
+      <button type="button" class="tag" data-tag="{{ name | slugify }}" aria-pressed="false">{{ name | escape }} <span>{{ parts[0] | minus: 1000 }}</span></button>
+      {% endfor %}
+    </div>
     {% include post-list.html %}
     <p id="empty" class="empty" hidden>No posts match “<span></span>”. Try a shorter search term.</p>
   </div>

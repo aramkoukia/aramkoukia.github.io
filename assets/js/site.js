@@ -92,26 +92,44 @@
     wrap.appendChild(b);
   });
 
-  /* Filter the post index */
+  /* Filter the post index by text and topic */
   var f = document.getElementById('filter');
   if (f) {
     var items = [].slice.call(document.querySelectorAll('.entry'));
     var years = [].slice.call(document.querySelectorAll('.year'));
     var empty = document.getElementById('empty');
-    f.addEventListener('input', function () {
+    var chips = [].slice.call(document.querySelectorAll('.tag-filter .tag'));
+    var tag = new URLSearchParams(location.search).get('tag') || '';
+    if (tag && !chips.some(function (c) { return c.dataset.tag === tag; })) tag = '';
+
+    var apply = function () {
       var q = f.value.trim().toLowerCase();
       var shown = 0;
       items.forEach(function (it) {
-        var match = !q || it.dataset.search.indexOf(q) > -1;
+        var match = (!q || it.dataset.search.indexOf(q) > -1) &&
+          (!tag || (' ' + it.dataset.tags + ' ').indexOf(' ' + tag + ' ') > -1);
         it.hidden = !match;
         if (match) shown++;
       });
       years.forEach(function (y) { y.hidden = !y.querySelector('.entry:not([hidden])'); });
+      chips.forEach(function (c) { c.setAttribute('aria-pressed', String(c.dataset.tag === tag)); });
       if (empty) {
         empty.hidden = shown > 0;
         var s = empty.querySelector('span');
-        if (s) s.textContent = f.value;
+        if (s) s.textContent = q || (chips.filter(function (c) { return c.dataset.tag === tag; })[0] || {}).textContent || '';
       }
+    };
+
+    f.addEventListener('input', apply);
+    chips.forEach(function (c) {
+      c.addEventListener('click', function () {
+        tag = c.dataset.tag === tag ? '' : c.dataset.tag;
+        var url = new URL(location.href);
+        if (tag) url.searchParams.set('tag', tag); else url.searchParams.delete('tag');
+        history.replaceState(null, '', url);
+        apply();
+      });
     });
+    if (tag) apply();
   }
 })();

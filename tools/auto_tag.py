@@ -8,7 +8,7 @@ Usage:
     python3 tools/auto_tag.py --dry-run  # print what would change
 
 Posts that already have a `tags:` line are left alone unless --force is passed,
-so hand-edited tags are safe. Edit TAGS below to change the categories.
+so hand-edited tags are safe (--force overwrites them). Edit TAGS below to change the categories.
 """
 import re
 import sys
@@ -18,7 +18,7 @@ from pathlib import Path
 TAGS = {
     "Leadership": [
         "leadership", "leader", "leaders", "engineering manager", "engineering managers",
-        "mentor", "mentoring", "teams", "team's", "hire", "hiring", "career", "culture", "1:1", "one-on-one",
+        "mentor", "mentoring", "teams", "team's", "hire", "hiring", "culture", "1:1", "one-on-one",
         "star players", "fulfillment", "sdm", "velocity", "greatness", "taste",
     ],
     "Product & Agile": [
@@ -60,6 +60,8 @@ TAGS = {
         "docker", "kubernetes", "container", "containers", "swarm", "service fabric", "aks",
         "dev spaces",
     ],
+    "Career": ["career", "books", "what to read", "top paying", "stay curious"],
+    "Python": ["python", "scrapy", "django", "flask"],
     "Git": ["git", "gitignore", "commit", "commits", "branch"],
     "Blockchain": [
         "blockchain", "ethereum", "smart contract", "smart contracts", "bitcoin", "crypto",
