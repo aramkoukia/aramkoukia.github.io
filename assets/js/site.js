@@ -92,6 +92,19 @@
     wrap.appendChild(b);
   });
 
+  /* Collapse every year except the most recent one */
+  var yearList = document.querySelector('.years');
+  [].slice.call(document.querySelectorAll('.year')).forEach(function (y, n) {
+    var b = y.querySelector('.year-toggle');
+    if (!b) return;
+    var set = function (open) { y.classList.toggle('collapsed', !open); b.setAttribute('aria-expanded', String(open)); };
+    set(n === 0);
+    b.addEventListener('click', function () {
+      if (yearList && yearList.classList.contains('filtering')) return;
+      set(y.classList.contains('collapsed'));
+    });
+  });
+
   /* Filter the post index by text and topic */
   var f = document.getElementById('filter');
   if (f) {
@@ -112,6 +125,7 @@
         if (match) shown++;
       });
       years.forEach(function (y) { y.hidden = !y.querySelector('.entry:not([hidden])'); });
+      if (yearList) yearList.classList.toggle('filtering', !!(q || tag));
       chips.forEach(function (c) { c.setAttribute('aria-pressed', String(c.dataset.tag === tag)); });
       if (empty) {
         empty.hidden = shown > 0;

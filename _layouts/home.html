@@ -20,9 +20,10 @@ layout: default
     {% capture counted %}{% for t in site.tags %}{{ t[1].size | plus: 1000 }}#{{ t[0] }}|{% endfor %}{% endcapture %}
     {% assign ranked = counted | split: "|" | sort | reverse %}
     <div class="tag-filter" role="group" aria-label="Filter by topic">
+      <span class="tag-filter-label">Topics</span>
       <button type="button" class="tag" data-tag="" aria-pressed="true">All</button>
       {% for r in ranked %}{% assign parts = r | split: "#" %}{% assign name = parts[1] %}
-      <button type="button" class="tag" data-tag="{{ name | slugify }}" aria-pressed="false">{{ name | escape }} <span>{{ parts[0] | minus: 1000 }}</span></button>
+      <button type="button" class="tag" data-tag="{{ name | slugify }}" aria-pressed="false">{{ name | escape }}</button>
       {% endfor %}
     </div>
     {% include post-list.html %}
