@@ -4,6 +4,7 @@ title: "GIT: Some Commit best practices and How to undo your recent Commits"
 date: 2017-12-31
 description: "One of the practices that we follow, when using GIT, or any distributed source control systems, is to “commit often”. Though these commits…"
 image: https://cdn-images-1.medium.com/max/800/1*MUleaN6PZpHWitwk8ug2FQ.gif
+tags: ["Git", "Architecture"]
 ---
 
 ### GIT: Some Commit best practices and How to undo your recent Commits

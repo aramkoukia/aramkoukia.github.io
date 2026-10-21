@@ -4,6 +4,7 @@ title: "How to save money, do more, through your team’s fulfillment"
 date: 2017-12-03
 description: "Recently, I have been hearing around this “Productivity” thing and “How to improve our teams productivity?” a lot and decided to write this…"
 image: https://cdn-images-1.medium.com/max/2560/1*tKwTn-LvLJR6sDuBDInIYg.jpeg
+tags: ["Leadership"]
 ---
 
 ### How to save money, do more, through your team’s fulfillment

@@ -4,6 +4,7 @@ title: "Use quartz.net in .net core 6.0 web api to implement scheduled tasks"
 date: 2023-01-15
 description: "To use Quartz.NET in a .NET Core 6.0 Web API, you’ll need to first install the Quartz.NET package in your project. You can do this by…"
 image: https://cdn-images-1.medium.com/max/800/0*J52KVDHQADEOjS0R.png
+tags: [".NET"]
 ---
 
 ### Use quartz.net in .net core 6.0 web api to implement scheduled tasks

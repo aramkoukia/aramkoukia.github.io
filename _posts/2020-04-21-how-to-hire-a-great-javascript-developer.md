@@ -4,6 +4,7 @@ title: "How to Hire a Great JavaScript Developer"
 date: 2020-04-21
 description: "Josef  from https://www.toptal.com/ asked me to re-post this interesting article they have written, so here we go:"
 image: https://cdn-images-1.medium.com/max/800/0*eMFAGkbxttKEA3wa.png
+tags: ["JavaScript", "Leadership"]
 ---
 
 ### How to Hire a Great JavaScript Developer

@@ -4,6 +4,7 @@ title: "Azure DocumentDB vs SQL Azure, a performance comparison"
 date: 2016-12-09
 description: "UPDATE:"
 image: /assets/img/2016-12-09-azure-documentdb-vs-sql-azure-a-performance-comparison/1.jpg
+tags: ["Azure", "Data"]
 ---
 
 ### Azure DocumentDB vs SQL Azure, a performance comparison

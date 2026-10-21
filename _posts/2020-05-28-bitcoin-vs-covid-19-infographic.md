@@ -5,6 +5,7 @@ date: 2020-05-28
 description: "Gamblineers.com are working with Bitcoin and sent me a cool infographic about Bitcoin during the pandemic
 to share with you all!"
 image: https://cdn-images-1.medium.com/max/800/1*HRdTyOgdrvk-a2noX6u26A.png
+tags: ["Blockchain"]
 ---
 
 ### Bitcoin vs. Covid-19 Infographic

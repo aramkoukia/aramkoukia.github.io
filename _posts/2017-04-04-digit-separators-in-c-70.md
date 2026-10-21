@@ -4,6 +4,7 @@ title: "Digit separators in C# 7.0"
 date: 2017-04-04
 description: "In C# 7.0, the underscore _ may be used as a digit separator. The benefit of this is to improve the code readability when dealing with…"
 image: https://cdn-images-1.medium.com/max/800/1*YW_1ZyOQ5FAxkPUokyhqDw.jpeg
+tags: [".NET"]
 ---
 
 ### Digit separators in C# 7.0

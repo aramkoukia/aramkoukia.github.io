@@ -4,6 +4,7 @@ title: "How do I “git pull” and overwrite my local changes?"
 date: 2020-02-17
 description: "Has it happened to you that you have a really old git repository, that is not in sync with the remote repository and you also may or may…"
 image: https://cdn-images-1.medium.com/max/800/1*LnaAe0o0ZtiXCYV71VphPw.png
+tags: ["Git"]
 ---
 
 ### How do I “git pull” and overwrite my local changes?

@@ -4,6 +4,7 @@ title: "Stay Curious, Stay Engaged!"
 date: 2018-11-14
 description: "Well, about two years ago I came across a piece of neuroscience, that just stunned me. As a team lead I wish somebody had told me more…"
 image: https://cdn-images-1.medium.com/max/1200/1*q86ve-gQzjpdeY0UtvKXFA.jpeg
+tags: ["Leadership", "Career"]
 ---
 
 ### Stay Curious, Stay Engaged!

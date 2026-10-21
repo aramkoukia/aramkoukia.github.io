@@ -4,6 +4,7 @@ title: "Dev/Test in the Cloud"
 date: 2017-04-30
 description: "Are you a developer who needs to deliver faster and better applications?"
 image: https://cdn-images-1.medium.com/max/1200/1*srAspiw_7rI1zIX7JbTObw.jpeg
+tags: ["Azure"]
 ---
 
 ### Dev/Test in the Cloud

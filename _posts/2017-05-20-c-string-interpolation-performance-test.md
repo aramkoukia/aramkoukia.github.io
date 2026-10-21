@@ -4,6 +4,7 @@ title: "C# String Interpolation, Performance test"
 date: 2017-05-20
 description: "C# 6.0 introduced a cool feature called String Interpolation, which is an awesome replacement for confusing String.Format syntax, to make…"
 image: https://cdn-images-1.medium.com/max/800/1*MMX1cc8OyZ6ddbNpVMwNSg.gif
+tags: [".NET"]
 ---
 
 ### C# String Interpolation, Performance test

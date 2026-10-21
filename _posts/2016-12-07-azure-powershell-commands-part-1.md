@@ -3,6 +3,7 @@ layout: post
 title: "#Azure #Powershell commands (Part 1)"
 date: 2016-12-07
 description: "Login to Azure"
+tags: ["Azure"]
 ---
 
 ### #Azure #Powershell commands (Part 1)

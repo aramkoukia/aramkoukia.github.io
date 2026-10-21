@@ -4,6 +4,7 @@ title: "A Microservices implementation journey — Part 4"
 date: 2018-02-25
 description: "I hope you read the First , Second and Third part of this Microservices Implementation Journey and found them useful and if you didn’t I…"
 image: https://cdn-images-1.medium.com/max/1200/1*ezLkH8bj_59SICLI5Yv4xw.png
+tags: ["Architecture", "AWS", "Product & Agile"]
 ---
 
 ### A Microservices implementation journey — Part 4

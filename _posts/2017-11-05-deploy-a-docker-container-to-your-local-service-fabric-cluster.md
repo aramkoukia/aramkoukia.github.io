@@ -4,6 +4,7 @@ title: "Deploy a Docker Container to your local Service Fabric Cluster"
 date: 2017-11-05
 description: "In the previous post, I demonstrated how you can create a standalone Service Fabric Cluster on your local Windows Server. So the next step…"
 image: https://cdn-images-1.medium.com/max/1200/1*56bRd5eeIaPfP41RkRexGA.png
+tags: ["Containers", "Azure"]
 ---
 
 ### Deploy a Docker Container to your local Service Fabric Cluster

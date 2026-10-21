@@ -4,6 +4,7 @@ title: "Create an Azure Service Fabric Cluster on your local Windows Server"
 date: 2017-10-29
 description: "When you are doing R&D around Container Orchestrators and your technology choices for managing your Microserices ecosystem, Azure Service…"
 image: https://cdn-images-1.medium.com/max/2560/1*Rbw6iypOV4AoGThYLarFjQ.png
+tags: ["Azure", "Containers"]
 ---
 
 ### Create an Azure Service Fabric Cluster on your local Windows Server

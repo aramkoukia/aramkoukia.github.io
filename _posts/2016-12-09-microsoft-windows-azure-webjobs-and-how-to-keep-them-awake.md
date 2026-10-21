@@ -4,6 +4,7 @@ title: "#Microsoft Windows #Azure #WebJobs and How to keep them awake"
 date: 2016-12-09
 description: "In case you have come across Microsoft Azure WebJobs (if not you can take a look at what it is here) you know that they are basically…"
 image: /assets/img/2016-12-09-microsoft-windows-azure-webjobs-and-how-to-keep-them-awake/1.png
+tags: ["Azure"]
 ---
 
 ### #Microsoft Windows #Azure #WebJobs and How to keep them awake

@@ -4,6 +4,7 @@ title: "Common SQL Problems: Filling NULL values with Preceding Non-NULL values"
 date: 2016-12-08
 description: "The problem that I want to address here is Filling NULL or Empty values with Preceding Non-NULL values. let me show you some sample data…"
 image: /assets/img/2016-12-08-common-sql-problems-filling-null-values-with-preceding-non-null-values/1.png
+tags: ["Data"]
 ---
 
 ### Common SQL Problems: Filling NULL values with Preceding Non-NULL values

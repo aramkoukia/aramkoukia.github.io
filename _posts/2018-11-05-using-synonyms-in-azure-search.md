@@ -5,6 +5,7 @@ date: 2018-11-05
 description: "Azure Search is a SaaS solution that gives 
  developers APIs for adding a rich search experience over content in web, mobile, and…"
 image: https://cdn-images-1.medium.com/max/800/1*6etLB3oJZnmA2XwCoO86cA.png
+tags: ["Azure"]
 ---
 
 ### Using Synonyms in Azure Search

@@ -2,6 +2,7 @@
 layout: post
 title: "How to Evaluate a Distributed System Architecture in 30 Minutes"
 date: 2025-11-24
+tags: ["Architecture"]
 ---
 
 ## How to Evaluate a Distributed System Architecture in 30 Minutes

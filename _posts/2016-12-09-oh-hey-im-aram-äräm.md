@@ -4,6 +4,7 @@ title: "Oh, Hey. I’m Aram ( äräm/)"
 date: 2016-12-09
 description: "Software Development Team Lead, developer, software designer and architect."
 image: /assets/img/2016-12-09-oh-hey-im-aram-äräm/1.jpg
+tags: [".NET", "Azure", "JavaScript"]
 ---
 
 ### Oh, Hey. I’m Aram ( äräm/)

@@ -4,6 +4,7 @@ title: "Top 10 books all software developers should read"
 date: 2017-04-17
 description: "Without further rant, just jumping in to the list:"
 image: https://cdn-images-1.medium.com/max/2560/1*UaXKzwMxDENqeCMmEMR5pw.png
+tags: ["Career"]
 ---
 
 ### Top 10 books all software developers should read

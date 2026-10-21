@@ -4,6 +4,7 @@ title: "See how to easily deploy Ethereum smart contracts using C# and VisualStu
 date: 2017-01-24
 description: "The Story"
 image: https://cdn-images-1.medium.com/max/800/1*BrxSmz09re9UUV-zVuUADg.png
+tags: ["Blockchain", ".NET"]
 ---
 
 ### See how to easily deploy Ethereum smart contracts using C# and VisualStudio and more

@@ -4,6 +4,7 @@ title: "How to be Lean and Agile AND have a Product Roadmap that does not suck!"
 date: 2020-03-14
 description: "When developing a product, a common trap that teams fall into is this “Roadmap” thing that a lot of teams make this diagram that pretty…"
 image: https://cdn-images-1.medium.com/max/800/0*YkPqFt7MaOPV1aEZ.png
+tags: ["Product & Agile", "Leadership"]
 ---
 
 ### How to be Lean and Agile AND have a Product Roadmap that does not suck!

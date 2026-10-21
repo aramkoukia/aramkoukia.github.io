@@ -4,6 +4,7 @@ title: "3 Levels That You Should Operate at as a Mentor"
 date: 2023-01-28
 description: "As a mentor, you should operate at 3 levels:"
 image: https://cdn-images-1.medium.com/max/800/0*Vgb5FgnguqRFSX9a
+tags: ["Leadership"]
 ---
 
 ### 3 Levels That You Should Operate at as a Mentor

@@ -4,6 +4,7 @@ title: "A Microservices implementation journey — Part 5"
 date: 2018-03-20
 description: "If you have followed me recently I have been writing a series of articles around Microservices Architecture and Implementation. I hope you…"
 image: https://cdn-images-1.medium.com/max/1200/1*vfuvTl2YvXe7vSTbNqlHMw.png
+tags: ["Architecture"]
 ---
 
 ### A Microservices implementation journey — Part 5

@@ -4,6 +4,7 @@ title: "SQL Server Foreign Key Update and Delete Rules"
 date: 2017-04-17
 description: "The Story"
 image: https://cdn-images-1.medium.com/max/800/1*VVi038EBGPH2xNTdAeEa1g.jpeg
+tags: ["Data"]
 ---
 
 ### SQL Server Foreign Key Update and Delete Rules

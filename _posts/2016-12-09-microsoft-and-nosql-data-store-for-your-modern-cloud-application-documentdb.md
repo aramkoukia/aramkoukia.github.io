@@ -4,6 +4,7 @@ title: "#Microsoft and #NoSQL data store, for your modern cloud application-#Doc
 date: 2016-12-09
 description: "Microsoft has recently introduced a new product called DocumentDB as part of the Azure services which is a NoSQL data store and I believe…"
 image: /assets/img/2016-12-09-microsoft-and-nosql-data-store-for-your-modern-cloud-application-documentdb/1.png
+tags: ["Data", "Azure", "Product & Agile"]
 ---
 
 ### #Microsoft and #NoSQL data store, for your modern cloud application-#DocumentDB

@@ -2,6 +2,7 @@
 layout: post
 title: "Reviving the Blog: A New Focus on Technical Leadership and Scalable Engineering"
 date: 2025-11-22
+tags: ["Leadership", "Architecture"]
 ---
 
 ## Reviving the Blog: A New Focus on Technical Leadership and Scalable Engineering

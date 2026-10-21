@@ -4,6 +4,7 @@ title: "How to extract structured data from websites using Scrapy?"
 date: 2023-01-19
 description: "Scrapy is an open-source and collaborative web crawling framework for Python. It is used for extracting the data from websites and can be…"
 image: https://cdn-images-1.medium.com/max/800/0*mSo_7vtqTgm87JPU
+tags: ["Python", "Data"]
 ---
 
 ### How to extract structured data from websites using Scrapy?

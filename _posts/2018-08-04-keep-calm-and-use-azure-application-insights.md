@@ -4,6 +4,7 @@ title: "Keep Calm and use Azure Application Insights"
 date: 2018-08-04
 description: "If you have been following me here, I started writing about Azure Application insights 4 or 5 years ago on my blog when it first came out…"
 image: https://cdn-images-1.medium.com/max/800/1*wpL7UdybtpENsATgFDjtpQ.png
+tags: ["Azure"]
 ---
 
 ### Keep Calm and use Azure Application Insights

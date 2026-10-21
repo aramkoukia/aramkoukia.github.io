@@ -3,6 +3,7 @@ layout: post
 title: "Upstream by: Dan Heath"
 date: 2022-04-02
 description: "We often find ourselves reacting to problems, putting out fires, dealing with emergencies. We should shift our attention to preventing…"
+tags: ["Leadership"]
 ---
 
 ### Upstream by: Dan Heath

@@ -4,6 +4,7 @@ title: "Null-Conditional Operation in C# 6.0"
 date: 2016-12-09
 description: "Looks like with C# 6.0 we can finally get rid of all those check for Nulls in our code."
 image: /assets/img/2016-12-09-null-conditional-operation-in-c-60/1.png
+tags: [".NET"]
 ---
 
 ### Null-Conditional Operation in C# 6.0

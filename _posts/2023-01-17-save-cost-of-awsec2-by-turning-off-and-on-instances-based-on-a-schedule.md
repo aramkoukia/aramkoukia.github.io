@@ -4,6 +4,7 @@ title: "Save cost of AWSEC2 by turning off and on instances based on a schedule"
 date: 2023-01-17
 description: "ou can use AWS Auto Scaling or AWS Lambda to schedule the start and stop of your EC2 instances."
 image: https://cdn-images-1.medium.com/max/800/0*RWfxDi1PaZ7jNqDv.png
+tags: ["AWS"]
 ---
 
 ### Save cost of AWS EC2 by turning off and on instances based on a schedule

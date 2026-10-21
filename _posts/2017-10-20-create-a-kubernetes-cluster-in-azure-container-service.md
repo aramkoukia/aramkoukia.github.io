@@ -4,6 +4,7 @@ title: "Create a Kubernetes Cluster in Azure Container Service"
 date: 2017-10-20
 description: "In the previous post, we built a Docker image and then pushed it to Azure Container Registry to host. Now in this one, I am going to show…"
 image: https://cdn-images-1.medium.com/max/800/1*q1NNYakYCvrNQr0JCCBucA.png
+tags: ["Containers", "Azure"]
 ---
 
 ### Create a Kubernetes Cluster in Azure Container Service

@@ -4,6 +4,7 @@ title: "Apple and Google partner on COVID-19 contact tracing technology"
 date: 2020-04-10
 description: "Across the world, governments and health authorities are working together to find solutions to the COVID-19 pandemic, to protect people…"
 image: https://cdn-images-1.medium.com/max/800/0*-EKGpyoFYDJMDkhs.jpg
+tags: ["Data"]
 ---
 
 ### Apple and Google partner on COVID-19 contact tracing technology

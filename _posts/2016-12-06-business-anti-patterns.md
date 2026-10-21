@@ -4,6 +4,7 @@ title: "Business Anti-Patterns"
 date: 2016-12-06
 description: "I was listening to the .Net Rocks! podcast this week with Carl Franklin and Richard Campbell, and the guest on this specific episode was…"
 image: /assets/img/2016-12-06-business-anti-patterns/1.gif
+tags: ["Product & Agile", ".NET"]
 ---
 
 ### Business Anti-Patterns

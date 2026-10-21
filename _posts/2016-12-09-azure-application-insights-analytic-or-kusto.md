@@ -4,6 +4,7 @@ title: "#Azure Application Insights Analytic or Kusto"
 date: 2016-12-09
 description: "Azure Application Insights is a great tool that I find super useful when I need to get some insights about what’s going on with my…"
 image: /assets/img/2016-12-09-azure-application-insights-analytic-or-kusto/1.png
+tags: ["Azure", "Data"]
 ---
 
 ### #Azure Application Insights Analytic or Kusto

@@ -4,6 +4,7 @@ title: "Faster build and deploy, by using Kubernetes and Azure Dev Spaces within
 date: 2018-07-15
 description: "One of the issues that you will have while working with container images and Kubernetes, is the build process when you are coding."
 image: https://cdn-images-1.medium.com/max/800/1*9zUAAdF5hEf15vMPVV_rMQ.png
+tags: ["Containers", "Azure", ".NET"]
 ---
 
 ### Faster build and deploy, by using Kubernetes and Azure Dev Spaces within Visual Studio

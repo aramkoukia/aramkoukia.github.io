@@ -3,6 +3,7 @@ layout: post
 title: "How do I undo ‘git add’ before commit and push?"
 date: 2019-09-18
 description: "Ever happened to you that you do a “git add” and you noticed you don’t want to commit the file you added?"
+tags: ["Git"]
 ---
 
 ### How do I undo ‘git add’ before commit and push?

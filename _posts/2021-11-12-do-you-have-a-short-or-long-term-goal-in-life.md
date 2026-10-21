@@ -4,6 +4,7 @@ title: "Do you have a short or long term goal in life?"
 date: 2021-11-12
 description: "Our friends at @TargetMe has made it their mission to help people achieve their goals."
 image: https://cdn-images-1.medium.com/max/1200/1*qtmnVUPCzDiv179WzXWcmw.jpeg
+tags: ["Personal"]
 ---
 
 ### Do you have a short or long term goal in life?

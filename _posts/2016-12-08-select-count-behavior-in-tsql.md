@@ -3,6 +3,7 @@ layout: post
 title: "Select COUNT behavior in TSQL"
 date: 2016-12-08
 description: "A while a go I was trying to query a pretty big table to get the COUNT of the rows, and it was taking forever:"
+tags: ["Data"]
 ---
 
 ### Select COUNT behavior in TSQL

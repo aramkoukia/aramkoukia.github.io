@@ -4,6 +4,7 @@ title: "JavaScript DOMParser, a good choice to convert HTML strings to DOM Eleme
 date: 2017-02-27
 description: "If you have done some web development, you probably have been in a situation where, you had some HTML content stored in some string…"
 image: https://cdn-images-1.medium.com/max/800/1*jUIMvD4K-TSK5BbQQ9ZPkw.jpeg
+tags: ["JavaScript"]
 ---
 
 ### JavaScript DOMParser, a good choice to convert HTML strings to DOM Elements

@@ -4,6 +4,7 @@ title: "Cortana, as a new Microsoft Bot Framework Channel"
 date: 2017-05-13
 description: "In Build 2017, Microsoft announced several updates to the Bot Framework which are great, and as I was expecting, this great bot framework…"
 image: https://cdn-images-1.medium.com/max/2560/1*__HfdCfmG9Y8Z3JMi-Jg8g.jpeg
+tags: ["AI"]
 ---
 
 ### Cortana, as a new Microsoft Bot Framework Channel

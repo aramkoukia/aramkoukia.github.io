@@ -4,6 +4,7 @@ title: "How to undo “git add” before commit?"
 date: 2020-02-17
 description: "Have you ever done a “git add” or “staged” a file and then just before committing realized you don’t want to commit those?"
 image: https://cdn-images-1.medium.com/max/800/1*Dor1DqiHjQ6F6YEZ85RDkQ.png
+tags: ["Git"]
 ---
 
 ### How to undo “git add” before commit?

@@ -4,6 +4,7 @@ title: "Amazon SQS vs Amazon SNS"
 date: 2021-10-14
 description: "Amazon SQS and Amazon SNS are the two popular tools when engineers design distributed systems in the AWS echo-system."
 image: https://cdn-images-1.medium.com/max/800/1*F6BSGn5fN3fY7KWeptm9OA.png
+tags: ["AWS", "Architecture"]
 ---
 
 ### Amazon SQS vs Amazon SNS

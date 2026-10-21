@@ -4,6 +4,7 @@ title: "Best-Kept Secrets of Product Development Part 4: Shared Understanding"
 date: 2020-03-09
 description: "Here are some of my notes from the amazing “User Story Mapping” book by: Jeff Patton!"
 image: https://cdn-images-1.medium.com/max/800/1*8Bg5a2RsZFxpfJIYbDx44w.png
+tags: ["Product & Agile"]
 ---
 
 ### Best-Kept Secrets of Product Development Part 4: Shared Understanding

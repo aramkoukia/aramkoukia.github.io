@@ -4,6 +4,7 @@ title: "A Microservices implementation journey — Part 1"
 date: 2018-01-14
 description: "Well, it’s that time where everyone is talking about Microservice, what they are, how they work, etc, and here I am putting my thoughts out…"
 image: https://cdn-images-1.medium.com/max/1200/1*MMPsASQw6VIypEa1Y5o6lw.png
+tags: ["Architecture", "Data", "Git"]
 ---
 
 ### A Microservices implementation journey — Part 1

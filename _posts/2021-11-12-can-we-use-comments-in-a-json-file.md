@@ -4,6 +4,7 @@ title: "Can we use comments in a JSON file?"
 date: 2021-11-12
 description: "Well the short answer is: No!"
 image: https://cdn-images-1.medium.com/max/800/0*Wqnbr_4djUu6GCtg.png
+tags: ["JavaScript"]
 ---
 
 ### Can we use comments in a JSON file?

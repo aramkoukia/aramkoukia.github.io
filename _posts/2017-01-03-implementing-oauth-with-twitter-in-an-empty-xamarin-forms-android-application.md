@@ -4,6 +4,7 @@ title: "Implementing #OAuth with Twitter in an empty #Xamarin Forms Android Appl
 date: 2017-01-03
 description: "In this video, I create an empty Xamarin Froms Android Application, and then I add some code to implementing OAuth to enable your mobile…"
 image: https://cdn-images-1.medium.com/max/800/1*QoiVurCZ3HTOkmYi9n5Gaw.png
+tags: [".NET"]
 ---
 
 ### Implementing #OAuth with Twitter in an empty #Xamarin Forms Android Application

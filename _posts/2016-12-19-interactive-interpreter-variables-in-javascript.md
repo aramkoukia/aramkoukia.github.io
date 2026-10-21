@@ -4,6 +4,7 @@ title: "Interactive interpreter variables in #JavaScript"
 date: 2016-12-19
 description: "Useful helper commands while debugging JavaScript"
 image: /assets/img/2016-12-19-interactive-interpreter-variables-in-javascript/1.jpg
+tags: ["JavaScript"]
 ---
 
 ### Interactive interpreter variables in #JavaScript

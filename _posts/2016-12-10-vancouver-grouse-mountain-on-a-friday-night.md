@@ -4,6 +4,7 @@ title: "#Vancouver, Grouse Mountain on a Friday Night"
 date: 2016-12-10
 description: "It has been snowing in Vancouver (Yeah for real) this past week and it’s been hard to get around with car in the city, simply because…"
 image: /assets/img/2016-12-10-vancouver-grouse-mountain-on-a-friday-night/1.gif
+tags: ["Personal"]
 ---
 
 ### #Vancouver, Grouse Mountain on a Friday Night

@@ -4,6 +4,7 @@ title: "Iran 2022 Revolution — Day 2"
 date: 2022-11-06
 description: "September 16th, with the internet shutdown, people in Tehran guessed that something is wrong and went to the hospital where Mahsa was…"
 image: https://cdn-images-1.medium.com/max/800/0*kSknJBX3ljDSInBd
+tags: ["Personal"]
 ---
 
 ### Iran Revolution. Day 2 , September 17th, 2022.

@@ -4,6 +4,7 @@ title: "Implementing Single Sign-On Part 1: Solution Architecture"
 date: 2016-12-08
 description: "When people talk about a Single Sign-on solution, basically it means to extract all the Authentication bits and logic into an external…"
 image: /assets/img/2016-12-08-implementing-single-sign-on-part-1-solution-architecture/1.png
+tags: ["Architecture"]
 ---
 
 ### Implementing Single Sign-On Part 1: Solution Architecture

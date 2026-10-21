@@ -4,6 +4,7 @@ title: "What to read and learn in 2017"
 date: 2016-12-24
 description: "Yes it is that time of year again. The new years resolution and that bullshit."
 image: https://cdn-images-1.medium.com/max/800/1*h6QsbzYwny5FwyuRZ6bMaA.gif
+tags: ["Career"]
 ---
 
 ### What to read and learn in 2017

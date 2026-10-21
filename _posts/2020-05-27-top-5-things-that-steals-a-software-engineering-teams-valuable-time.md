@@ -4,6 +4,7 @@ title: "Top 5 things that steals a Software Engineering team’s valuable time!"
 date: 2020-05-27
 description: "There could be several things that wastes a Software Engineering team’s time that you and I might have experienced, but I just want to…"
 image: https://cdn-images-1.medium.com/max/800/0*3SDjQaK6T9TAV_o9.jpg
+tags: ["Leadership"]
 ---
 
 ### Top 5 things that steals a Software Engineering team’s valuable time!

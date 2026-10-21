@@ -4,6 +4,7 @@ title: "How do I give access to a third party application to access my AWS accou
 date: 2023-01-31
 description: "To give a third-party application read-only access to your AWS account information, you can use the AWS Identity and Access Management…"
 image: https://cdn-images-1.medium.com/max/800/0*K2xa6s0s_8JxD37E.png
+tags: ["AWS"]
 ---
 
 ### How do I give access to a third party application to access my AWS account in a read-only mode?

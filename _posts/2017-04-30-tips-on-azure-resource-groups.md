@@ -4,6 +4,7 @@ title: "Tips on Azure Resource Groups"
 date: 2017-04-30
 description: "Azure Resource Groups are a logical containers to keep related resources for an application or group of applications together."
 image: https://cdn-images-1.medium.com/max/800/0*ufJt-1L32YpHevwC.png
+tags: ["Azure", "Containers"]
 ---
 
 ### Tips on Azure Resource Groups

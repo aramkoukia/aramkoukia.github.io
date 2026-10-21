@@ -4,6 +4,7 @@ title: "Blazor — SPA framework on .Net via WebAssembly"
 date: 2018-07-11
 description: "Today we are going to look at a new WebAssembly project called Blazor!"
 image: https://cdn-images-1.medium.com/max/2560/1*Lyg6rI-Fs0CdzEHjttc02A.jpeg
+tags: [".NET", "JavaScript"]
 ---
 
 ### Blazor — SPA framework on .Net via WebAssembly

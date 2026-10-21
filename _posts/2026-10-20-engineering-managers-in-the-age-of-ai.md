@@ -3,6 +3,7 @@ layout: post
 title: "Engineering Managers in the Age of AI: What Changed, What Didn't, and What's Next"
 date: 2026-10-20
 description: "AI made writing code cheap. It didn't make knowing what to build, or owning what you shipped, any cheaper. Some honest notes on the SDM job right now."
+tags: ["Leadership", "AI"]
 ---
 
 About once a week, someone asks me some version of the same question: "So… do we still need engineering managers?"

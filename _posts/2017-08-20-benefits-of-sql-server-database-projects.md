@@ -4,6 +4,7 @@ title: "Benefits of SQL Server Database Projects"
 date: 2017-08-20
 description: "Since Entity Framework has been released, for new projects many people have used EF Code-First approach to handle database schema changes…"
 image: https://cdn-images-1.medium.com/max/800/1*OHdMMcaun7xJI2ons2s-vA.png
+tags: ["Data", ".NET"]
 ---
 
 ### Benefits of SQL Server Database Projects

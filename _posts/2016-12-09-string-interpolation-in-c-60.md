@@ -3,6 +3,7 @@ layout: post
 title: "String Interpolation in C# 6.0"
 date: 2016-12-09
 description: "When it comes to “String.Format”, we have always suffered the fact that it is so unreadable and error prone. When the string that you want…"
+tags: [".NET"]
 ---
 
 ### String Interpolation in C# 6.0

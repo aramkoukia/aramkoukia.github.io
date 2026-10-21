@@ -4,6 +4,7 @@ title: "How to improve a Software Team’s Velocity?"
 date: 2017-10-24
 description: "How can we increase a team’s velocity?"
 image: https://cdn-images-1.medium.com/max/800/1*VYsulR9tMIJ23xEFxRIFUQ.jpeg
+tags: ["Leadership"]
 ---
 
 ### How to improve a Software Team’s Velocity?

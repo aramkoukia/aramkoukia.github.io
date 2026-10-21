@@ -4,6 +4,7 @@ title: "Factory #DesignPattern with #Composition in #JavaScript"
 date: 2016-12-18
 description: "In object oriented programming, happens a lot when you want an object to have some behavior, and first thing that comes to mind is to find…"
 image: /assets/img/2016-12-18-factory-designpattern-with-composition-in-javascript/1.png
+tags: ["Architecture", "JavaScript"]
 ---
 
 ### Factory #DesignPattern with #Composition in #JavaScript

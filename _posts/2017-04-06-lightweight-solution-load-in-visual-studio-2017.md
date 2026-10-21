@@ -4,6 +4,7 @@ title: "Lightweight Solution Load in Visual Studio 2017"
 date: 2017-04-06
 description: "Visual Studio 2017 has lots of cool features, but there is one feature there that has not got a lot of traction, and it a really good one…"
 image: https://cdn-images-1.medium.com/max/2560/1*tysHeq88_zDpPYvsv5ZDJQ.jpeg
+tags: [".NET"]
 ---
 
 ### Lightweight Solution Load in Visual Studio 2017

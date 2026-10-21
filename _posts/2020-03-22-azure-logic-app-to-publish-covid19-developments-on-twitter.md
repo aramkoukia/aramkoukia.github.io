@@ -4,6 +4,7 @@ title: "Azure Logic App to publish COVID19 developments on Twitter"
 date: 2020-03-22
 description: "Yesterday I shared this Open-Source and Public API here that serves the latest COVID19 development around the world:"
 image: https://cdn-images-1.medium.com/max/800/0*DM_Ca7BWUcsOMmmQ.jpg
+tags: ["Azure"]
 ---
 
 ### Azure Logic App to publish COVID19 developments on Twitter

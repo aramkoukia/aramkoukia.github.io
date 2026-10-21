@@ -4,6 +4,7 @@ title: "Visual Studio 2017 — What’s new poster"
 date: 2017-03-27
 description: "Here is a nice overview of all exciting new features available in Visual Studio 2017, in one picture."
 image: https://cdn-images-1.medium.com/max/2560/1*3VtX6G9yXXaOAYgyhzWbIw.png
+tags: [".NET"]
 ---
 
 ### Visual Studio 2017 — What’s new poster

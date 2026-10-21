@@ -4,6 +4,7 @@ title: "Why Docker? Pros and Cons"
 date: 2017-11-23
 description: "What are Containers?"
 image: https://cdn-images-1.medium.com/max/1200/1*9eqkIxHnho9ny2Tym5-I-w.jpeg
+tags: ["Containers"]
 ---
 
 ### Why Docker? Pros and Cons

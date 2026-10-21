@@ -4,6 +4,7 @@ title: "Managed Kubernetes on Azure (AKS)"
 date: 2017-11-17
 description: "In a previous post, I showed you how to create a Kubernetes Cluster, on Azure Container Service (Considered an IaaS offering, since you…"
 image: https://cdn-images-1.medium.com/max/1200/1*5X_qkpTFBxYIZrlbi7Z55g.png
+tags: ["Containers", "Azure"]
 ---
 
 ### Managed Kubernetes on Azure (AKS)

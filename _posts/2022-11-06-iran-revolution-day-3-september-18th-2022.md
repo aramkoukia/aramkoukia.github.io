@@ -4,6 +4,7 @@ title: "Iran Revolution. Day 3 , September 18th 2022"
 date: 2022-11-06
 description: "September 18th, 2022 is when I can find the first time the chant “Woman, Life, Freedom” is used in protests!"
 image: https://cdn-images-1.medium.com/max/800/0*tuym3QMX9cxq_yrd.jpg
+tags: ["Personal"]
 ---
 
 ### Iran Revolution. Day 3 , September 18th 2022

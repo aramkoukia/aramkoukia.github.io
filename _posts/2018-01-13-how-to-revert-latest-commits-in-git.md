@@ -4,6 +4,7 @@ title: "How to revert latest commits in GIT?"
 date: 2018-01-13
 description: "While we hopefully consider all the “commit” best practices I talked about in a previous post, we happen to screw up (a lot), and commit…"
 image: https://cdn-images-1.medium.com/max/800/1*4ELxxiHfVPtjnux4ER7ygg.gif
+tags: ["Git"]
 ---
 
 ### How to revert latest commits in GIT?

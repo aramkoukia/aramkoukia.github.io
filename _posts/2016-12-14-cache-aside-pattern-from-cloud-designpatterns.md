@@ -4,6 +4,7 @@ title: "Cache-Aside Pattern — From #Cloud #DesignPatterns"
 date: 2016-12-14
 description: "Caching is a common technique to improve the performance and scalability problems by copying high demand data to a fast storage as close as…"
 image: /assets/img/2016-12-14-cache-aside-pattern-from-cloud-designpatterns/1.png
+tags: ["Architecture", "Data"]
 ---
 
 ### Cache-Aside Pattern — From #Cloud #DesignPatterns

@@ -4,6 +4,7 @@ title: "How to discard unstaged changed in GIT?"
 date: 2020-02-22
 description: "Have you ever tried to discard changes in your working directory that are not staged yet?"
 image: https://cdn-images-1.medium.com/max/800/0*vye3KM0YU691TmLO.png
+tags: ["Git"]
 ---
 
 ### How to discard unstaged changed in GIT?

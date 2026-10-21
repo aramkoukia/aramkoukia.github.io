@@ -4,6 +4,7 @@ title: "Top 6 ways to search for a string in JavaScript — And performance benc
 date: 2017-06-18
 description: "Searching for a sub-string in a string, is one of the most basic operations, that we come across every now and then, and what I usually do…"
 image: https://cdn-images-1.medium.com/max/1200/1*japg1CGeoRmskOc5yD0-Xg.jpeg
+tags: ["JavaScript"]
 ---
 
 ### Top 6 ways to search for a string in JavaScript — And performance benchmarks

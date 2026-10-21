@@ -4,6 +4,7 @@ title: "Can you implement a Chat Bot with Microsoft Bot Framework without Azure?
 date: 2018-01-05
 description: "Microsoft Bot Framework is an amazing framework that people are using it more and more to build Bots these days, because it is so simple to…"
 image: https://cdn-images-1.medium.com/max/800/1*QoCscxdXl2mkWqL7mGfALA.png
+tags: ["AI", "Azure"]
 ---
 
 ### Can you implement a Chat Bot with Microsoft Bot Framework without Azure?

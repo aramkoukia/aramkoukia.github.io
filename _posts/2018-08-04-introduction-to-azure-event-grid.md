@@ -4,6 +4,7 @@ title: "Introduction to Azure Event Grid"
 date: 2018-08-04
 description: "What is Azure Event Grid about?"
 image: https://cdn-images-1.medium.com/max/800/1*kEaYN5XatnG4_tcJ1vR2Jw.png
+tags: ["Azure"]
 ---
 
 ### Introduction to Azure Event Grid

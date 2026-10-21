@@ -4,6 +4,7 @@ title: "Maximize the benefits of using Azure Resource Manager"
 date: 2016-10-11
 description: "Microsoft Azure team has a hand full of guidelines to help you get the most out of the Azure Resource Manager model when working with your…"
 image: /assets/img/2016-10-11-maximize-the-benefits-of-using-azure-resource-manager/1.png
+tags: ["Azure"]
 ---
 
 ### Maximize the benefits of using Azure Resource Manager

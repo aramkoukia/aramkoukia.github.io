@@ -4,6 +4,7 @@ title: "How to download all the files in an AWS S3 Bucket?"
 date: 2021-10-14
 description: "Unfortunately AWS S3 Console doesn’t have an option to download all the content of an S3 bucket at the moment, but there are other options…"
 image: https://cdn-images-1.medium.com/max/800/0*iRM5kMJ8BsjNVm05.jpg
+tags: ["AWS"]
 ---
 
 ### How to download all the files in an AWS S3 Bucket?

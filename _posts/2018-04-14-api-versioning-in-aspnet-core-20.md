@@ -4,6 +4,7 @@ title: "API Versioning in Asp.Net Core 2.0"
 date: 2018-04-14
 description: "API Versioning is one of those never ending debates that happens anytime you want to build an API no matter how many APIs you have built…"
 image: https://cdn-images-1.medium.com/max/800/1*XwSwno9LFOxt_Ae3tGtRIg.jpeg
+tags: [".NET"]
 ---
 
 ### API Versioning in Asp.Net Core 2.0

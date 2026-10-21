@@ -4,6 +4,7 @@ title: "Deleting selected folders from a path with #Powershell"
 date: 2016-12-08
 description: "I think many of you have experienced the pain that your project have problems, and even “Clean”ing the solution from Visual Studio does not…"
 image: /assets/img/2016-12-08-deleting-selected-folders-from-a-path-with-powershell/1.png
+tags: [".NET"]
 ---
 
 ### Deleting selected folders from a path with #Powershell

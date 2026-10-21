@@ -4,6 +4,7 @@ title: "Clone your existing App using Azure portal"
 date: 2016-12-07
 description: "I’m going to show you how easy it is to Clone in Azure Portal. With this feature you can setup a new instance of you app in seconds and…"
 image: /assets/img/2016-12-07-clone-your-existing-app-using-azure-portal/1.png
+tags: ["Azure"]
 ---
 
 ### Clone your existing App using Azure portal

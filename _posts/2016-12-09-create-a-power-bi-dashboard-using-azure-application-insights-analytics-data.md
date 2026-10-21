@@ -4,6 +4,7 @@ title: "Create a Power BI dashboard using Azure Application Insights Analytics d
 date: 2016-12-09
 description: "In some previous posts I explained what is Azure Application Insight Analytics, and in this post I will show you how you can create Power…"
 image: /assets/img/2016-12-09-create-a-power-bi-dashboard-using-azure-application-insights-analytics-data/1.png
+tags: ["Azure", "Data"]
 ---
 
 ### Create a Power BI dashboard using Azure Application Insights Analytics data

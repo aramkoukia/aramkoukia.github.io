@@ -4,6 +4,7 @@ title: "Hot to remove tracked file from Git"
 date: 2020-02-17
 description: "It has happened to the best of us that we add something to git by mistake, and even commit it (test result folder, log files, etc) but…"
 image: https://cdn-images-1.medium.com/max/800/1*7OT7PnqQfHk08X4JlKVCFA.png
+tags: ["Git"]
 ---
 
 ### How to remove tracked file from Git?

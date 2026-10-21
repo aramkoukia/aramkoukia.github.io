@@ -4,6 +4,7 @@ title: "nameof Expressions in C# 6.0"
 date: 2016-12-09
 description: "There is a very nice feature in C# 6.0 which will help us to remove a lot of “Magic Strings“ from our code."
 image: /assets/img/2016-12-09-nameof-expressions-in-c-60/1.png
+tags: [".NET"]
 ---
 
 ### nameof Expressions in C# 6.0

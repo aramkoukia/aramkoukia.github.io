@@ -4,6 +4,7 @@ title: "Asp.Net Web Api is dead, long live Asp.Net Core"
 date: 2017-05-06
 description: ".NET community (Yeah, it is open source now) decided to have ONE controller for both MVC and WEB API when ASP.NET core was released."
 image: https://cdn-images-1.medium.com/max/2560/1*jujefnOsXMzvh0KIDgKX4w.png
+tags: [".NET"]
 ---
 
 ### Asp.Net Web Api is dead, long live Asp.Net Core

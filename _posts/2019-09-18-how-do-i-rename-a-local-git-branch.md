@@ -3,6 +3,7 @@ layout: post
 title: "How do I rename a local Git branch?"
 date: 2019-09-18
 description: "Ever happened to you that you made a branch and has a typo and you are itching to fix it?"
+tags: ["Git"]
 ---
 
 ### How do I rename a local Git branch?

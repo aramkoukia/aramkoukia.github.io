@@ -3,6 +3,7 @@ layout: post
 title: "Taste Is the New Bottleneck"
 date: 2026-10-26
 description: "When code is nearly free to produce, the scarce thing isn't typing or even reviewing. It's taste: knowing what good looks like and why. Some notes on the one skill AI made more valuable, not less."
+tags: ["Leadership", "AI"]
 ---
 
 A few weeks ago I watched two engineers solve the same problem with the same tool in the same afternoon. Same model, same prompt quality, roughly the same experience on paper. One of them shipped something clean, boring, and correct. The other shipped twice as much code that technically worked and that I did not want anywhere near production.

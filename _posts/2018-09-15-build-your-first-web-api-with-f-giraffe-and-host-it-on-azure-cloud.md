@@ -4,6 +4,7 @@ title: "Build your first Web API with F#, Giraffe and host it on Azure Cloud"
 date: 2018-09-15
 description: "Today I am going to talk to you about programming Web APIs using F# programming language."
 image: https://cdn-images-1.medium.com/max/800/1*XpTQJt9MCpEmfaf0RcPImw.png
+tags: [".NET", "Azure"]
 ---
 
 ### Build your first Web API with F#, Giraffe and host it on Azure Cloud

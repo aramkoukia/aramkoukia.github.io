@@ -4,6 +4,7 @@ title: "Going Single Page App or Traditional Web App"
 date: 2017-04-04
 description: "With all the trending front-end frameworks being discussed these days, like Angular, ReactJs, VueJs, EmberJs, which most of them make our…"
 image: https://cdn-images-1.medium.com/max/800/1*DZ1fC82UQ9wVxYqaxwUvWA.jpeg
+tags: ["JavaScript"]
 ---
 
 ### Going Single Page App or Traditional Web App

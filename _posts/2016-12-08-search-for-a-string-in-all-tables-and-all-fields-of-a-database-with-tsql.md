@@ -4,6 +4,7 @@ title: "Search for a string in all Tables and all Fields of a database with #TSQ
 date: 2016-12-08
 description: "With below stored procedure, you can search for a string across all the tables in your database in Sql Server:"
 image: /assets/img/2016-12-08-search-for-a-string-in-all-tables-and-all-fields-of-a-database-with-tsql/1.png
+tags: ["Data"]
 ---
 
 ### Search for a string in all Tables and all Fields of a database with #TSQL

@@ -4,6 +4,7 @@ title: "Azure Audit Logs"
 date: 2016-12-09
 description: "Using Azure Audit logs anything you do to the Azure resources in the azure portal or through Powershell is completely logged and you can go…"
 image: /assets/img/2016-12-09-azure-audit-logs/1.png
+tags: ["Azure"]
 ---
 
 ### Azure Audit Logs
