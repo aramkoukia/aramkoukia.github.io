@@ -172,16 +172,12 @@ a { color: inherit; }
 .year-label { margin: 0; padding-block: 1.5rem; align-self: start; font-weight: 400; }
 @media (min-width: 760px) { .year-label { position: sticky; top: 4.5rem; } }
 .year-toggle {
-  display: flex; align-items: baseline; gap: .75rem; padding: 0; border: 0; background: none; cursor: pointer;
+  padding: 0; border: 0; background: none; cursor: pointer;
   font-family: var(--fancy); font-size: 2rem; line-height: 1; color: var(--muted); text-align: left;
 }
 .year-toggle:hover { color: var(--ink); }
-.year-count { display: none; font-family: var(--display); font-size: .85rem; letter-spacing: .01em; }
-@media (min-width: 760px) { .year-toggle { flex-direction: column; gap: .4rem; } }
-.year.collapsed .year-count { display: inline; }
 .year.collapsed .entries { display: none; }
 .years.filtering .year.collapsed .entries { display: block; }
-.years.filtering .year-count { display: none; }
 .entries { list-style: none; margin: 0; padding: 0; }
 .entry {
   position: relative; display: grid; grid-template-columns: 4.25rem minmax(0, 1fr); gap: 1rem;
