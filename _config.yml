@@ -28,6 +28,10 @@ plugins:
 
 permalink: /:year/:month/:title/
 
+# Only publish posts dated today or earlier. The deploy workflow rebuilds daily
+# so each scheduled Monday post appears on its date.
+future: false
+
 markdown: kramdown
 highlighter: rouge
 kramdown:
