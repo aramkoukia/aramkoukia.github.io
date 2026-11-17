@@ -20,3 +20,6 @@ Create `_posts/YYYY-MM-DD-my-title.md`:
 The home page is the post list. Name, pronunciation, and headline for the About page live in
 `_data/profile.yml`; the About bio is in `about.md`. Work history is on LinkedIn only. To use a photo instead of the
 monogram, add it under `assets/img/` and set `avatar:` in `_config.yml`.
+
+
+
